@@ -7,6 +7,10 @@ export default {
         navbar: [
             { text: '首页', link: '/' },
             {
+                text: '书签',
+                link: '/bookmark'
+            },
+            {
                 text: '库',
                 link: '/repository'
             },
