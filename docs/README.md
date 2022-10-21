@@ -1,5 +1,1 @@
----
-home: true
-actionText: 开始了解 →
-actionLink: /website/
----
+# exmaple for vuepress-theme-maker 
