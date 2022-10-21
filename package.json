@@ -9,7 +9,8 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "sh deploy.sh"
   },
   "devDependencies": {
     "axios": "^1.1.3",
