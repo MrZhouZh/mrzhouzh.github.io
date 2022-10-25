@@ -1,4 +1,4 @@
-const THEME_PATH = '/vuepress-theme/'
+// const THEME_PATH = '/vuepress-theme/'
 
 module.exports = {
     title: 'Jace Chou\'s Blog',
@@ -29,16 +29,16 @@ module.exports = {
     themeConfig: require('./config/themeConfig'),
     plugins: [
         require('./plugin/util'),
-        [require('./plugin/gallery'), {
-            id: 'theme',
-            dirname: '_theme',
-            path: THEME_PATH,
-            itemPermalink: '/vuepress-theme/:year/:month/:day/:slug.html',
-            layout: 'GalleryLayout',
-            itemLayout: 'GalleryLayout',
-            pagination: {
-                perPagePosts: 10,
-            },
-        }]
+        // [require('./plugin/gallery'), {
+        //     id: 'theme',
+        //     dirname: '_theme',
+        //     path: THEME_PATH,
+        //     itemPermalink: '/vuepress-theme/:year/:month/:day/:slug.html',
+        //     layout: 'GalleryLayout',
+        //     itemLayout: 'GalleryLayout',
+        //     pagination: {
+        //         perPagePosts: 10,
+        //     },
+        // }]
     ],
 }

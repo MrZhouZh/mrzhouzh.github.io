@@ -3,13 +3,14 @@ module.exports = {
     hostname: 'https://mrzhouzh.github.io',
     nav: [
         { text: '🏠 Home', link: '/' },
+        { text: '🔖 Book Marks', link: '/bookmarks/' },
         { text: '📖 Theme', link: '/post/2020/12/26/theme-learning-0.html' },
         { text: '🐉 Maker Docs', link: '/_post/maker.md' },
-        { text: '🖼 Theme Gallery', link: '/vuepress-theme/' },
-        { text: '🔥 Animation', link: '/categories/animation/' },
+        // { text: '🖼 Theme Gallery', link: '/vuepress-theme/' },
+        // { text: '🔥 Animation', link: '/categories/animation/' },
         { text: '🔗 friend-links', link: '/friend-links/' },  
     ],
-    searchPlaceholder: 'Search',
+    searchPlaceholder: 'Search ⌘+k',
     searchMaxSuggestion: 10,
     social: [
         {
@@ -18,34 +19,30 @@ module.exports = {
         },
         {
             type: 'github',
-            link: 'Jace Chou',
+            link: 'MrZhouZh',
         },
-        {
-            type: 'qq',
-            link: '/rss.xml',
-        }
     ],
     copyright: `© ${new Date().getFullYear()} <a target="_blank" rel="external nofollow noopner" href="https://mrzhouzh.github.io">Jace Chou</a>`,
-    reward: {
-        text: 'Buy me a cup of coffee ☕️.',
-        enable: true,
-        ways: [
-            {
-                name: 'wechat',
-                icon: 'wechat',
-                qrcode: '/images/wechat.png',
-                text: 'This is a Wechat Pay qrcode',
-                color: 'rgb(9, 187, 7)'
-            },
-            {
-                name: 'alipay',
-                symbol: 'alipay',
-                qrcode: '/images/alipay.png',
-                text: 'This is a Alipay Pay qrcode',
-                color: '#1296db'
-            }
-        ],
-    },
+    // reward: {
+    //     text: 'Buy me a cup of coffee ☕️.',
+    //     enable: false,
+    //     ways: [
+    //         {
+    //             name: 'wechat',
+    //             icon: 'wechat',
+    //             qrcode: '/images/wechat.png',
+    //             text: 'This is a Wechat Pay qrcode',
+    //             color: 'rgb(9, 187, 7)'
+    //         },
+    //         {
+    //             name: 'alipay',
+    //             symbol: 'alipay',
+    //             qrcode: '/images/alipay.png',
+    //             text: 'This is a Alipay Pay qrcode',
+    //             color: '#1296db'
+    //         }
+    //     ],
+    // },
     blog: {
         directories: [
             {
@@ -92,14 +89,14 @@ module.exports = {
         feed: {
             canonical_base: 'https://mrzhouzh.github.io',
         },
-        comment: {
-            service: 'valine',
-            appId: '1oeLbJt8p8rzkCaguAkbm0sp-gzGzoHsz',
-            appKey: 'jotwOTiL9EkOSYmsp21OcdaM',
-            placeholder: 'Leave a comment',
-            visitor: true,
-            enableQQ: true
-        },
+        // comment: {
+        //     service: 'valine',
+        //     appId: '1oeLbJt8p8rzkCaguAkbm0sp-gzGzoHsz',
+        //     appKey: 'jotwOTiL9EkOSYmsp21OcdaM',
+        //     placeholder: 'Leave a comment',
+        //     visitor: true,
+        //     enableQQ: true
+        // },
     },
     seo: {
         siteTitle: (_, $site) => $site.title,
