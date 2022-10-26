@@ -4,11 +4,11 @@ module.exports = {
     nav: [
         { text: '🏠 Home', link: '/' },
         { text: '🔖 Book Marks', link: '/bookmarks/' },
-        { text: '📖 Theme', link: '/post/2020/12/26/theme-learning-0.html' },
-        { text: '🐉 Maker Docs', link: '/_post/maker.md' },
+        // { text: '📖 Theme', link: '/post/2020/12/26/theme-learning-0.html' },
+        // { text: '🐉 Maker Docs', link: '/_post/maker.md' },
         // { text: '🖼 Theme Gallery', link: '/vuepress-theme/' },
         // { text: '🔥 Animation', link: '/categories/animation/' },
-        { text: '🔗 friend-links', link: '/friend-links/' },  
+        // { text: '🔗 friend-links', link: '/friend-links/' },  
     ],
     searchPlaceholder: 'Search ⌘+k',
     searchMaxSuggestion: 10,
@@ -56,6 +56,14 @@ module.exports = {
                     prevText: '',
                     nextText: '',
                 },
+            },
+            {
+                id: 'bookmarks',
+                dirname: 'bookmarks',
+                path: '/bookmarks',
+                itemPermalink: '/bookmarks/:slug.html',
+                frontmatter: { title: '' },
+                pagination: {}
             }
         ],
         frontmatters: [
@@ -110,7 +118,7 @@ module.exports = {
             return $page.frontmatter.tags
         },
         twitterCard: _ => 'summary_large_image',
-        type: $page => ['articles', '_post', 'blog', '_theme'].some(folder => $page.regularPath.startsWith(`/${folder}`)) ? 'article' : 'website',
+        type: $page => ['articles', '_post', 'blog', '_theme', 'bookmarks'].some(folder => $page.regularPath.startsWith(`/${folder}`)) ? 'article' : 'website',
         url: (_, $site, path) => ($site.themeConfig.hostname || '') + path,
         image: ($page, $site) => $page.frontmatter.cover && (($site.themeConfig.hostname && !$page.frontmatter.cover.startsWith('http') || '') + $page.frontmatter.cover),
         publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
@@ -121,11 +129,11 @@ module.exports = {
         popupComponent: 'ThemeSWUpdatePopup',
         updatePopup: true,
     },
-    copy: {
-        copySelector: ['div[class*="language-"] pre', '.friend-link__content div[class*="language-"] pre'],
-        copyMessage: '代码复制成功',
-        duration: 1000,
-    },
+    // copy: {
+    //     copySelector: ['div[class*="language-"] pre', '.friend-link__content div[class*="language-"] pre'],
+    //     copyMessage: '代码复制成功',
+    //     duration: 1000,
+    // },
     palette: {
         colors: [
             {
