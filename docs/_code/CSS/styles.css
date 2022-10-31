@@ -1,0 +1,23 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+/* grid - layout */
+.grid-container {
+    width: 400px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, auto));
+    gap: 1px;
+    /* grid-auto-rows: 50px; */
+}
+
+.grid-container .item {
+    height: 50px;
+    background-color: #7aa4f0;
+}
+
+.grid-container .item:hover {
+    transform: scale3d(1);
+}
