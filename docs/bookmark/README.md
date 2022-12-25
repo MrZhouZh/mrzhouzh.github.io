@@ -1,19 +1,27 @@
-# 书签
+---
+title: 整理的书签
+---
 
-## Animation
+> 书签就是用来标识书本中的特定页, 以便返回查看
 
-- [airbnb lottie](http://airbnb.io/lottie/#/)
-- [pixijs](https://pixijs.io/guides/basics/getting-started.html)
-- [animejs](https://animejs.com/)
-- [CSS animate](https://animate.style/)
+### [Blog](./Blog.md)
 
-## Vue
+### [Books](./Books.md)
 
-- [Vue Class Component](https://class-component.vuejs.org/)
-- [VeeValidate-best practices](https://vee-validate.logaretm.com/v4/guide/best-practices)
+### [Interesting-site](./Interesting-site.md)
 
-## React
+### [Jobs-site](./Jobs-site.md)
 
-- [React 技术揭秘 - 代数效应](https://react.iamkasong.com/process/fiber-mental.html#%E4%BB%A3%E6%95%B0%E6%95%88%E5%BA%94%E5%9C%A8react%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8)
+### [OS](./OS.md)
+
+### [Patent](./Patent.md)
+
+### [Skills](./Skills.md)
+
+### [Study](./Study/README.md)
+
+### [Tools](./Tools.md)
+
+### [Famous-team](./Famous-team.md)
 
 *TO BE CONTINUED...*

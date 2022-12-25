@@ -4,6 +4,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default {
     title: 'Jace Chou\'s Blog',
     theme: defaultTheme({
+        docsDir: 'docs',
         navbar: [
             { text: '首页', link: '/' },
             {
@@ -22,7 +23,8 @@ export default {
                 text: '文章',
                 link: '/article'
             },
-        ]
+        ],
+        repo: 'MrZhouZh/mrzhouzh.github.io'
     }),
     plugins: [
         searchPlugin({
