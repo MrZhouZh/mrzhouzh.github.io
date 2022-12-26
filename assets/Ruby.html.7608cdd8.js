@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6a59d94e","path":"/bookmark/Study/Ruby.html","title":"Ruby","lang":"en-US","frontmatter":{"title":"Ruby"},"excerpt":"","headers":[],"git":{"updatedTime":1671970825000,"contributors":[{"name":"mrzhouzh","email":"17600330793@sina.cn","commits":1}]},"filePathRelative":"bookmark/Study/Ruby.md"}');export{t as data};

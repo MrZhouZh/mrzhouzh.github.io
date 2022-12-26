@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-05696b17","path":"/bookmark/Study/Python.html","title":"Python","lang":"en-US","frontmatter":{"title":"Python"},"excerpt":"","headers":[],"git":{"updatedTime":1671970825000,"contributors":[{"name":"mrzhouzh","email":"17600330793@sina.cn","commits":1}]},"filePathRelative":"bookmark/Study/Python.md"}');export{t as data};

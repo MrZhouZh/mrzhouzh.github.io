@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4fcd3f5f","path":"/bookmark/Study/Develop/C-language.html","title":"C-language","lang":"en-US","frontmatter":{"title":"C-language"},"excerpt":"","headers":[],"git":{"updatedTime":1671970825000,"contributors":[{"name":"mrzhouzh","email":"17600330793@sina.cn","commits":1}]},"filePathRelative":"bookmark/Study/Develop/C-language.md"}');export{e as data};

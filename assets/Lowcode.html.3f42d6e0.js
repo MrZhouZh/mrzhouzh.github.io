@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0d8bc844","path":"/bookmark/Study/Lowcode.html","title":"Lowcode","lang":"en-US","frontmatter":{"title":"Lowcode"},"excerpt":"","headers":[],"git":{"updatedTime":1671970825000,"contributors":[{"name":"mrzhouzh","email":"17600330793@sina.cn","commits":1}]},"filePathRelative":"bookmark/Study/Lowcode.md"}');export{e as data};

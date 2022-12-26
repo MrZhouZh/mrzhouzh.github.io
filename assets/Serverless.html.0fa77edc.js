@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-64d49476","path":"/bookmark/Study/Develop/Serverless.html","title":"Serverless","lang":"en-US","frontmatter":{"title":"Serverless"},"excerpt":"","headers":[],"git":{"updatedTime":1671970825000,"contributors":[{"name":"mrzhouzh","email":"17600330793@sina.cn","commits":1}]},"filePathRelative":"bookmark/Study/Develop/Serverless.md"}');export{e as data};
