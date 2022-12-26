@@ -22,6 +22,40 @@ title: 有趣的网站
 
 - [555电影-免费电影-在线电影网-免费VIP资源在线观看](https://555dy1.com/)
 
+## 动漫
+
+- [AGE动漫](https://www.agemys.net/)
+
+- [樱花动漫](https://www.yhdmp.cc/)
+
+- [zzzfun动漫](http://www.zzzfun.com/)
+
+- [嘟嘟噜二次元](http://www.dudulu.moe/)
+
+- [次元街](https://www.ciyuanjie.cn/)
+
+- [呲哩呲哩](http://www.cilicili.cc/)
+
+- [哈哩哈哩](http://halihali11.com/acg/)
+
+- [米粒米粒](https://milimili.nl/)
+
+## 工具导航收录网站
+
+- [快导航网](https://www.hifast.cn/)
+
+- [龙轩导航](http://ilxdh.com/)
+
+- [翻墙者](https://www.fanqiangzhe.com/)
+
+- [网址导航-在线工具](https://tool.lu/nav/)
+
+- [REWORK导航](https://rework.tools/)
+
+- [工具导航](https://www.buzbu.com/)
+
+- [神秘的热心网友](https://imyshare.com/)
+
 ## other
 
 - [创造者日报 - 每天发现有趣的产品](https://creatorsdaily.com/?topic=09f957b1-28b2-4461-a43d-fa10a196d0f3)
