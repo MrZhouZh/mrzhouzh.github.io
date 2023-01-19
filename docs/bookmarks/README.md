@@ -8,9 +8,15 @@ category: bookmark
 
 ## 书签归类
 
-> 收集平时长逛的网站
+> 书签就是用来标识书本中的特定页, 以便返回查看
 
-- [前端书签](./bookmark-frontend.md) 
-- [服务端书签](./bookmark-backend.md)
-- [随想书签](./bookmark-ispire.md)
-
+- [Blog](./Blog.md)
+- [Books](./Books.md)
+- [Interesting-site](./Interesting-site.md)
+- [Jobs-site](./Jobs-site.md)
+- [OS](./OS.md)
+- [Patent](./Patent.md)
+- [Skills](./Skills.md)
+- [Study](./Study/README.md)
+- [Tools](./Tools.md)
+- [Famous-team](./Famous-team.md)

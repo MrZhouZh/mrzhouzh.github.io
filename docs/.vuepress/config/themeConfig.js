@@ -47,9 +47,10 @@ module.exports = {
         directories: [
             {
                 id: 'post',
-                dirname: '_post',
+                // dirname: '_post',
+                dirname: '_home',
                 path: '/',
-                itemPermalink: '/post/:year/:month/:day/:slug.html',
+                // itemPermalink: '/post/:year/:month/:day/:slug.html',
                 frontmatter: { title: '' },
                 pagination: {
                     perPagePosts: 10,

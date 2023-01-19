@@ -1,1 +1,1 @@
-# exmaple for vuepress-theme-maker 
+# Jace's Blog
