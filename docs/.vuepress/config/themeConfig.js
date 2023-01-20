@@ -3,7 +3,7 @@ module.exports = {
     hostname: 'https://mrzhouzh.github.io',
     nav: [
         { text: '🏠 Home', link: '/' },
-        { text: '🔖 Book Marks', link: '/bookmarks/' },
+        // { text: '🔖 Book Marks', link: '/archives/' },
         // { text: '📖 Theme', link: '/post/2020/12/26/theme-learning-0.html' },
         // { text: '🐉 Maker Docs', link: '/_post/maker.md' },
         // { text: '🖼 Theme Gallery', link: '/vuepress-theme/' },
@@ -58,14 +58,14 @@ module.exports = {
                     nextText: '',
                 },
             },
-            {
-                id: 'bookmarks',
-                dirname: 'bookmarks',
-                path: '/bookmarks',
-                itemPermalink: '/bookmarks/:slug.html',
-                frontmatter: { title: '' },
-                pagination: {}
-            }
+            // {
+            //     id: 'bookmarks',
+            //     dirname: 'archives',
+            //     path: '/archives',
+            //     itemPermalink: '/archives/:slug.html',
+            //     frontmatter: { title: '' },
+            //     pagination: {}
+            // }
         ],
         frontmatters: [
             {
@@ -98,14 +98,14 @@ module.exports = {
         feed: {
             canonical_base: 'https://mrzhouzh.github.io',
         },
-        // comment: {
-        //     service: 'valine',
-        //     appId: '1oeLbJt8p8rzkCaguAkbm0sp-gzGzoHsz',
-        //     appKey: 'jotwOTiL9EkOSYmsp21OcdaM',
-        //     placeholder: 'Leave a comment',
-        //     visitor: true,
-        //     enableQQ: true
-        // },
+        comment: {
+            service: 'valine',
+            appId: '0kex8zVgj2UswIqKI7qWMhs9-gzGzoHsz',
+            appKey: 'Ii6aECdVyp9EDNJcoT4Qu0dL',
+            placeholder: 'Leave a comment',
+            visitor: true,
+            enableQQ: true
+        },
     },
     seo: {
         siteTitle: (_, $site) => $site.title,

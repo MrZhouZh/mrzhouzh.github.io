@@ -2,6 +2,9 @@
 title: Chrome
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Chrome
 ---
 
 - [Chrome-Extensions 开发](https://developer.chrome.com/extensions/getstarted)

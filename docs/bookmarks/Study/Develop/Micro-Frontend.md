@@ -2,6 +2,9 @@
 title: Micro-Frontend
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Micro-Frontend
 ---
 
 - [「微前端」- 将微服务理念扩展到前端开发（实战篇） - ThoughtWorks洞见](https://insights.thoughtworks.cn/micro-frontends-2/)

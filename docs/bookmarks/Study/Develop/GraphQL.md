@@ -2,6 +2,9 @@
 title: GraphQL
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - GraphQL
 ---
 
 - [GraphQL | API 查询语言](https://graphql.org/)

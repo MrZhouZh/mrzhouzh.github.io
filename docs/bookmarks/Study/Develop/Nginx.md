@@ -2,6 +2,9 @@
 title: Nginx
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Nginx
 ---
 
 - [nginx,高性能,流行,http,静态,服务器,高并发,服务器,基于事件,异步IO](https://www.myfreax.com/tag/nginx/)

@@ -2,6 +2,9 @@
 title: Flutter
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Flutter
 ---
 
 - [flutter 包体积问题讨论方案](https://github.com/flutter/flutter/issues/40345)

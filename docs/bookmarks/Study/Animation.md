@@ -2,6 +2,9 @@
 title: Animation
 date: 2023-01-19
 category: bookmark
+tags:
+    - Study
+    - Animation
 ---
 
 - [Lottie Docs](http://airbnb.io/lottie/#/)

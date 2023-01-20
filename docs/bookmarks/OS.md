@@ -2,6 +2,7 @@
 title: 操作系统相关
 date: 2023-01-19
 category: bookmark
+tag: OS
 ---
 
 ## Mac

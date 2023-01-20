@@ -2,6 +2,9 @@
 title: Design-pattern
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Design-pattern
 ---
 
 - [【游戏设计模式】之四 《游戏编程模式》全书内容提炼总结 - 知乎](https://zhuanlan.zhihu.com/p/23821422)

@@ -2,6 +2,9 @@
 title: Nodejs
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Nodejs
 ---
 
 - [内存篇 - heapdump - 《Node.js 调试指南》 - 书栈网 · BookStack](https://www.bookstack.cn/read/node-in-debugging/2.2heapdump.md)

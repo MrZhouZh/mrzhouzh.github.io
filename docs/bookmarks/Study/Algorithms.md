@@ -2,6 +2,9 @@
 title: Algorithms
 date: 2023-01-19
 category: bookmark
+tags:
+    - Study
+    - Algorithms
 ---
 
 - [4\. Algorithms and Flow Control - High Performance JavaScript \[Book\]](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html)

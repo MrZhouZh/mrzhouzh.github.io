@@ -1,5 +1,5 @@
 ---
-title: archives
+title: 文章
 ---
 
-## archives
+## 文章

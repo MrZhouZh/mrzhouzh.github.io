@@ -2,6 +2,9 @@
 title: UI
 date: 2023-01-19
 category: bookmark
+tags:
+    - Study
+    - UI
 ---
 
 - [UX Collective: Button  Design — UI component series | UX Collective](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)

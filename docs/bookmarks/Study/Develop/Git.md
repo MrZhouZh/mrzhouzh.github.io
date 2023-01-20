@@ -2,6 +2,9 @@
 title: Git
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Git
 ---
 
 - [git 遇上的问题以及解决方案 - git-flight-rules/README\_zh-CN.md at master · k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)

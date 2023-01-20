@@ -2,6 +2,9 @@
 title: Linux
 date: 2023-01-19
 category: bookmark
+tags:
+    - Study
+    - Linux
 ---
 
 - [tar 命令，Linux tar 命令详解：将许多文件一起保存至一个单独的磁带或磁盘归档，并能从归档中单独还原所需文件。 - Linux 命令搜索引擎](https://wangchujiang.com/linux-command/c/tar.html)

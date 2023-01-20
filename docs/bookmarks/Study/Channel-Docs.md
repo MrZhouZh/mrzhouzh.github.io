@@ -2,6 +2,9 @@
 title: Channel-docs
 date: 2023-01-19
 category: bookmark
+tags:
+    - Study
+    - Channel-Docs
 ---
 
 - [Docs | Twitter Developer](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#crawling)

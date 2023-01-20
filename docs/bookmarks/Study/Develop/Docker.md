@@ -2,6 +2,9 @@
 title: Docker
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Docker
 ---
 
 - [Docker从入门到实践](https://yeasy.gitbook.io/docker_practice/image/pull)

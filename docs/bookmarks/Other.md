@@ -1,5 +1,7 @@
 ---
 title: Other
+category: bookmark
+tag: Other
 ---
 
 - [Clear DNS](chrome://net-internals/dns#dns)

@@ -2,6 +2,9 @@
 title: Webpack
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Webpack
 ---
 
 - [Webpack4.0 source code analysis of Tapable](https://www.programmersought.com/article/1459649892/)

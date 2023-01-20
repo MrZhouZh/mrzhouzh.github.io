@@ -2,6 +2,9 @@
 title: Babel
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Babel
 ---
 
 - [babel-handbook/plugin-handbook.md at master · jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)

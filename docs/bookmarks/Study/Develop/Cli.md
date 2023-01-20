@@ -2,6 +2,9 @@
 title: Cli
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Cli
 ---
 
 - [前端开发者如何拥有一个自定义的前端脚手架工具\? · Issue #1 · jatfret/blog](https://github.com/jatfret/blog/issues/1)

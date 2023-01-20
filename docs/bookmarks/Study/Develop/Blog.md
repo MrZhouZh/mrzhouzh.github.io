@@ -2,6 +2,9 @@
 title: Blog
 date: 2023-01-19
 category: bookmark
+tags:
+    - Develop
+    - Blog
 ---
 
 - [静态博客 - Front Matter | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/front-matter/)
