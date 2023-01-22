@@ -22,7 +22,7 @@ module.exports = {
             link: 'MrZhouZh',
         },
     ],
-    copyright: `© ${new Date().getFullYear()} <a target="_blank" rel="external nofollow noopner" href="https://mrzhouzh.github.io">Jace Chou</a>`,
+    copyright: `© ${new Date().getFullYear()} <a target="_blank" rel="external nofollow noopner" href="https://mrzhouzh.github.io">Jace Chow</a>`,
     // reward: {
     //     text: 'Buy me a cup of coffee ☕️.',
     //     enable: false,
@@ -30,14 +30,14 @@ module.exports = {
     //         {
     //             name: 'wechat',
     //             icon: 'wechat',
-    //             qrcode: '/images/wechat.png',
+    //             qrcode: '/images/wechat.jpg',
     //             text: 'This is a Wechat Pay qrcode',
     //             color: 'rgb(9, 187, 7)'
     //         },
     //         {
     //             name: 'alipay',
     //             symbol: 'alipay',
-    //             qrcode: '/images/alipay.png',
+    //             qrcode: '/images/alipay.jpg',
     //             text: 'This is a Alipay Pay qrcode',
     //             color: '#1296db'
     //         }
@@ -47,10 +47,10 @@ module.exports = {
         directories: [
             {
                 id: 'post',
-                // dirname: '_post',
-                dirname: '_home',
+                dirname: '_post',
+                // dirname: '_home',
                 path: '/',
-                // itemPermalink: '/post/:year/:month/:day/:slug.html',
+                itemPermalink: '/post/:year/:month/:day/:slug.html',
                 frontmatter: { title: '' },
                 pagination: {
                     perPagePosts: 10,

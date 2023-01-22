@@ -1,8 +1,8 @@
 // const THEME_PATH = '/vuepress-theme/'
 
 module.exports = {
-    title: 'Jace Chou\'s Blog',
-    description: 'Jace Chou\'s personal site',
+    title: 'Jace Chow\'s Blog',
+    description: 'Jace Chow\'s personal site',
     theme: 'maker',
     head: [
         ['link', { rel: 'icon', href: '/logo.jpg' }],

@@ -1,5 +1,8 @@
 ---
-title: 文章收录
+title: 首页介绍
+date: 2023-01-20
 ---
 
-- [收录书签](./bookmarks/README.md)
+# Welcome to Jace's Blog
+
+收集狂人~

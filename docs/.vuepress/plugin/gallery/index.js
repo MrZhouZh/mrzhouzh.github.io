@@ -48,9 +48,9 @@ module.exports = (options = {}, context) => ({
             frontmatter: {
                 date: '2022-10-24',
                 layout: options.layout,
-                author: 'Jace Chou',
+                author: 'Jace Chow',
                 title: 'VuePress Theme Gallery',
-                description: 'Jace Chou\'s personal site'
+                description: 'Jace Chow\'s personal site'
             }
         }]
 

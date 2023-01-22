@@ -1,5 +1,6 @@
 ---
 title: Other
+date: 2022-10-26
 category: bookmark
 tag: Other
 ---
