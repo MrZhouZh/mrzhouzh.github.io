@@ -113,3 +113,65 @@ pnpm i unocss --filter vue-demo1
 # -W 参数
 pnpm i unocss -W
 ```
+
+## 关联 sub-package
+
+创建工具函数 `root/libs/core/index.ts`
+
+```ts
+export function add(a: number, b: number): number {
+  return a + b
+}
+```
+
+安装在 `vue-demo1` 依赖中
+
+```sh
+pnpm i @libs/core -F vue-demo1
+```
+
+然后查看 `packages/vue-demo1/package.json`
+
+```json
+{
+  "dependencies": {
+    "@libs/core": "workspace:*",  // * 代表默认同步最新版本, 正常情况下应该是 ^1.0.0
+  }
+}
+```
+
+最后就能愉快的用上工具函数~
+
+```ts
+import { add } from '@libs/core'
+
+console.log(add(1, 2))
+```
+
+
+## 运行 sub-package 的命令(scripts)
+
+根目录关联子包的命令
+
+`root/package.json`
+
+```json
+{
+  "scripts": {
+    "dev:vue-demo": "pnpm -F vue-demo dev"
+    "build:vue-demo": "pnpm -F vue-demo build"
+  }
+}
+```
+
+`packages/vue-demo/package.json`
+
+```json
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build"
+  }
+}
+```
+
