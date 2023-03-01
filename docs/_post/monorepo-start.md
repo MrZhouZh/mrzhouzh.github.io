@@ -116,7 +116,21 @@ pnpm i unocss -W
 
 ## 关联 sub-package
 
-创建工具函数 `root/libs/core/index.ts`
+
+
+创建工具函数包 `root/libs/core`
+
+`package.json`
+
+```json
+{
+  "name": "@libs/core",
+  "private": true,
+  "version": "1.0.0"
+}
+```
+
+`index.ts`
 
 ```ts
 export function add(a: number, b: number): number {
