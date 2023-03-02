@@ -5,7 +5,7 @@ date: 2023-02-23
 
 ## pnpm + vite + monorepo 最佳实践
 
-使用 `pnpm` + `vite` 创建 monorepo 项目
+使用 `pnpm` + `vite` 创建 monorepo 项目. [项目代码示例](https://github.com/MrZhouZh/monorepo-demo)
 
 ### 第一步: **创建目录**
 
