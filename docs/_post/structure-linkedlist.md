@@ -99,6 +99,23 @@ class LinkedList {
 
     return slow
   }
+
+  // 反转链表
+  reverse() {
+    let root = new Node('head'),
+      currentNode = this.head.next
+
+    while(currentNode !== null) {
+      const next = currentNode.next
+      currentNode.next = root.next
+
+      // 后移
+      root.next = currentNode
+      currentNode = next
+    }
+
+    this.head = root
+  }
 }
 
 // ---------- Test ---------
@@ -113,4 +130,19 @@ list.append('append4')
 list.remove(list.findByName('append4'))
 
 console.log(list)
+// LinkedList {
+//   head: Node {
+//     name: "head",
+//     next: Node {
+//       name: "append1",
+//       next: Node {
+//         name: "append2",
+//         next: Node {
+//           name: "append3",
+//           next: null
+//         }
+//       }
+//     }
+//   }
+// }
 ```
