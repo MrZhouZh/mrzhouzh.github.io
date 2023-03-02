@@ -13,13 +13,126 @@ tag: Tools
 
 [三分钟上手数据结构作图工具graphviz - 掘金](https://juejin.im/post/6844903942883655687)
 
+## 绘图(流程图)
+
+[手绘风格流程图](https://sketchviz.com/new)
+
+[ProcessOn - 免费在线作图，思维导图，流程图，实时协作](https://www.processon.com/)
+
+[画板工具- 手绘风](https://excalidraw.com/)
+
+## Code 相关
+
+[es5 转 es6 在线](https://lebab.unibtc.me/editor)
+
+[Sucrase 一款ES6+编译器](https://sucrase.io/)
+
+[online editor - OneCompiler](https://onecompiler.com/java/3y5kaa8v7)
+
+[AST 在线转化](https://astexplorer.net/)
+
+[页面预览图js库](https://larsjung.de/pagemap/)
+
+[比较文件不同 diff2html](https://diff2html.xyz/index.html#install)
+
+[JSON Schema Tool](https://jsonschema.net/home)
+
+[ascii 字符画 - FIGlet初识 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/11/22/figlet/index.html)
+
+[Parcel 极速零配置WEB应用打包工具](https://parceljs.org/)
+
+[手绘风格组件](https://www.getpapercss.com/)
+
+[Autoprefixer CSS online](https://autoprefixer.github.io/)
+
+[css3动画生成 - Animista - CSS Animations on Demand](https://animista.net/)
+
+[10个免费好用功能强大的网页动画效果库 | 优设网 - UISDC](https://www.uisdc.com/10-best-free-animation-libraries)
+
+[Rome 编译器](https://rome.tools/#about-rome)
+
+[json 可视化 - Editor | JSON Visio](https://jsonvisio.com/editor)
+
+[leo：从工程化角度出发的前端脚手架 | leo脚手架](https://doc.jd.com/feb-book/leo/introduction/introduction.html)
+
+<details>
+  <summary>在线编码</summary>
+
+  <a href="https://glitch.com/dashboard" target="_blank">glitch</a>
+
+  <a href="https://codesandbox.io/dashboard" target="_blank">CodeSandbox</a>
+
+  <a href="https://codepen.io/" target="_blank">Codepen</a>
+  
+  <a href="https://stackblitz.com/" target="_blank">Stackblitz</a>
+  
+  <a style="text-decoration: line-through" href="https://codepan.egoist.sh/boilerplate/vue" target="_blank">在线运行代码 - CodePan</a>
+</details>
+<!-- <br /> -->
+
+<details>
+  <summary>生成好看的代码截图</summary>
+  <a href="https://ray.so/" target="_blank">ray.so</a>
+
+  <a href="https://carbon.now.sh/" target="_blank">carbon.now.sh</a>
+
+  <a href="https://poet.so/" target="_blank">Poet.so | Create Beautiful Images of Twitter Posts</a>
+</details>
+<!-- <br /> -->
+
+<details>
+  <summary>代码编辑器库</summary>
+  <a href="https://codemirror.net/" target="_blank">CodeMirror</a>
+</details>
+
+
+<details>
+  <summary>Chrome</summary>
+  <a href="https://www.crx4chrome.com/" target="_blank">Crx4Chrome</a>
+
+  <a href="https://greasyfork.org/zh-CN/" target="_blank">Greasy Fork - 安全、实用的用户脚本大全</a>
+
+  <a href="https://developers.google.com/web/tools" target="_blank">Tools for Web Developers | Google Developers</a>
+</details>
+
+
+<details>
+  <summary>SVG 相关</summary>
+  <a href="https://vectr.com/new" target="_blank">SVG 在线编辑器 - Vectr</a>
+
+  <a href="https://github.com/pfan123/svgtool/blob/master/renderer.js" target="_blank">凹凸实验室 - svgtools</a>
+
+  <a href="https://github.com/FWeinb/grunt-svgstore/" target="_blank">FWeinb/grunt-svgstore: Merge svgs from a folder</a>
+</details>
+
+<details>
+  <summary>壁纸 相关</summary>
+
+  <a href="https://www.wallpaperup.com/" target="_blank">Popular wallpapers | WallpaperUP</a>
+
+  <a href="https://bz.zzzmh.cn/index" target="_blank">极简壁纸\_海量电脑桌面壁纸美图\_4K超高清\_最潮壁纸网站</a>
+
+</details>
+
+
+<details>
+  <summary>工具集合</summary>
+  <a href="https://www.jiuwa.net/" target="_blank">九蛙工具箱-网名昵称,特殊符号,微信小工具在线生成</a>
+
+  <a href="https://tools.miku.ac/" target="_blank">MikuTools - 一个轻量的工具集合</a>
+
+  <a href="https://smalldev.tools/" target="_blank">便捷的开发工具 - Home - SmallDev.tools</a>
+
+  <a href="https://zhuanlan.zhihu.com/p/63243075" target="_blank">推荐10款全面而强大的在线工具 - 知乎</a>
+
+  <a href="https://www.nav3.cn/#/light" target="_blank">发现导航 - 精选实用导航网站</a>
+</details>
+
 ## other
 
 [在线测试接口 命令行](https://httpie.org/run)
 
 [Numbers to Excel | CloudConvert](https://cloudconvert.com/numbers-to-xlsx)
-
-[10个免费好用功能强大的网页动画效果库 | 优设网 - UISDC](https://www.uisdc.com/10-best-free-animation-libraries)
 
 [github 上有趣又实用的前端项目（持续更新，欢迎补充） - 前端小站 - SegmentFault 思否](https://segmentfault.com/a/1190000016528509)
 
@@ -27,15 +140,9 @@ tag: Tools
 
 [「推荐收藏 」 20个Web前端开发工程师必看的国外网站 - 掘金](https://juejin.im/post/6844904031718998029)
 
-[ProcessOn - 免费在线作图，思维导图，流程图，实时协作](https://www.processon.com/)
-
 [听音乐](https://lvyueyang.github.io/web-music/app/)
 
 [首页-书签地球-中国首家浏览器书签共享平台](https://www.bookmarkearth.com/)
-
-[手绘风格流程图](https://sketchviz.com/new)
-
-[生成页面预览图](https://larsjung.de/pagemap/)
 
 [nginx示例配置 NGINX Config](https://www.digitalocean.com/community/tools/nginx?domains.0.php.php=false&domains.0.routing.index=index.html&domains.0.routing.fallbackHtml=true)
 
@@ -47,31 +154,9 @@ tag: Tools
 
 [大连东软信息学院开源镜像站](http://mirrors.neusoft.edu.cn/)
 
-[SooPAT 专利搜索](http://www.soopat.com/)
-
-[画板工具- 手绘风](https://excalidraw.com/)
-
-[untitled - Vectr](https://vectr.com/tmp/cKrldvInD/aIxCj3Iq0?modal=welcome)
-
 [数学公式生成 - MathType demo - For Developers](http://www.wiris.com/editor/demo/en/developers)
 
-[JSON Schema Tool](https://jsonschema.net/home)
-
-[在线运行代码 - CodePan](https://codepan.egoist.sh/boilerplate/vue)
-
 [SVG Sprites还原工具，内置Font Awesome小图标 » 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/sp/icon/)
-
-[代码编辑器库 - CodeMirror](https://codemirror.net/)
-
-[es5 转 es6 在线](https://lebab.unibtc.me/editor)
-
-[凹凸实验室 - svgtools](https://github.com/pfan123/svgtool/blob/master/renderer.js)
-
-[FWeinb/grunt-svgstore: Merge svgs from a folder](https://github.com/FWeinb/grunt-svgstore/)
-
-[代码块美化截图在线](https://carbon.now.sh/)
-
-[ascii 字符画 - FIGlet初识 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/11/22/figlet/index.html)
 
 [\(开源\) XMind2TestCase：一个高效测试用例设计的解决方案！ · TesterHome](https://testerhome.com/topics/17554)
 
@@ -81,19 +166,11 @@ tag: Tools
 
 [静态站点生成器 Metalsmith - simple, pluggable static site generator](https://metalsmith.io/#introduction)
 
-[比较文件不同 diff2html](https://diff2html.xyz/index.html#install)
-
 [Rust 编写的静态网站生成 Zola](https://www.getzola.org/)
 
 [简化shell 脚本编写ShellCheck – shell script analysis tool](https://www.shellcheck.net/#)
 
-[手绘风格组件](https://www.getpapercss.com/)
-
-[Parcel 极速零配置WEB应用打包工具](https://parceljs.org/)
-
 [配置内联关键css webpack插件](https://github.com/GoogleChromeLabs/critters)
-
-[Sucrase 一款ES6+编译器](https://sucrase.io/)
 
 [\(Create App\)项目初始化相关配置 - 运用到技术和相关配置, 可视化的在线工具网站](https://createapp.dev/)
 
@@ -121,10 +198,6 @@ tag: Tools
 
 [Esprima: Demos](https://esprima.org/demo/index.html)
 
-[online code](https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=)
-
-[Tools for Web Developers | Google Developers](https://developers.google.com/web/tools)
-
 [在线编写readme文档](https://readme.so/editor)
 
 [npm 趋势](https://www.npmtrends.com/)
@@ -143,10 +216,6 @@ tag: Tools
 
 [临时邮箱、十分钟邮箱（10分钟\)、临时邮、临时Email、快速注册Email、24Mail--查错网](http://24mail.chacuo.net/)
 
-[九蛙工具箱-网名昵称,特殊符号,微信小工具在线生成](https://www.jiuwa.net/)
-
-[MikuTools - 一个轻量的工具集合](https://tools.miku.ac/)
-
 [国内离线安装 Chrome 扩展程序的方法总结 - 知乎](https://zhuanlan.zhihu.com/p/80305764)
 
 [circleci 持续集成 - Pipelines - MrZhouZh/All](https://app.circleci.com/pipelines/github/MrZhouZh)
@@ -161,13 +230,7 @@ tag: Tools
 
 [What Does “TLDR” Mean, and How Do You Use It\?](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)
 
-[在线code](https://stackblitz.com/)
-
 [TinyPNG – 智能压缩您的WebP、JPEG和PNG图片](https://tinify.cn/)
-
-[Greasy Fork - 安全、实用的用户脚本大全](https://greasyfork.org/zh-CN/)
-
-[AST explorer](https://astexplorer.net/)
 
 [微图 最好用的极速图片压缩工具· 开发者工具箱](https://devtool.tech/tiny-image)
 
@@ -187,8 +250,6 @@ tag: Tools
 
 [markdown文档转为视频的便捷工具](http://mdvideo.gshll.com/)
 
-[便捷的开发工具 - Home - SmallDev.tools](https://smalldev.tools/)
-
 [可视化不同字体大小 - Type Scale - A Visual Calculator](https://type-scale.com/)
 
 [用于 Web 和移动项目的一些高级插图 - Storytale](https://storytale.io/)
@@ -198,8 +259,6 @@ tag: Tools
 [\(2 封私信 / 21 条消息\) iterm2有什么酷功能？ - 知乎](https://www.zhihu.com/question/27447370)
 
 [Fotor Editor ｜ Fotor - Online Fotor Editor](https://www.fotor.com/photo-editor-app/editor/basic)
-
-[推荐10款全面而强大的在线工具 - 知乎](https://zhuanlan.zhihu.com/p/63243075)
 
 [Yandex.Translate – dictionary and online translation between English and over 90 other languages.](https://translate.yandex.com/?lang=zh-emj&text=%E9%9D%9E%E5%B8%B8%E5%BC%80%E5%BF%83)
 
@@ -216,8 +275,6 @@ tag: Tools
 [readme在线自述文件制作github - readme.so](https://readme.so/)
 
 [创建漂亮的移动和浏览器屏幕截图 - Screenshot.Rocks | Create beautiful mobile or browser screenshots and mockups](https://screenshot.rocks/)
-
-[css3动画生成 - Animista - CSS Animations on Demand](https://animista.net/)
 
 [设计工具、插图、开发人员和设计师的免费集合 - Undesign | Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/)
 
@@ -245,32 +302,9 @@ tag: Tools
 
 [app包 下载 - App news and reviews, best software downloads and discovery - Softonic](https://en.softonic.com/)
 
-[json 可视化 - Editor | JSON Visio](https://jsonvisio.com/editor)
-
-[leo：从工程化角度出发的前端脚手架 | leo脚手架](https://doc.jd.com/feb-book/leo/introduction/introduction.html)
-
 [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack \& more](https://www.webfx.com/tools/emoji-cheat-sheet/)
-
-[Autoprefixer CSS online](https://autoprefixer.github.io/)
-
-[online editor - OneCompiler](https://onecompiler.com/java/3y5kaa8v7)
 
 [Remix Icon - Open source icon library](https://remixicon.com/)
 
 [免费素材图片](https://www.pexels.com/zh-cn/)
 
-[Create beautiful images of your code](https://ray.so/)
-
-[Poet.so | Create Beautiful Images of Twitter Posts](https://poet.so/)
-
-[发现导航 - 精选实用导航网站](https://www.nav3.cn/#/light)
-
-[Rome Toolchain](https://rome.tools/#about-rome)
-
-[Crx4Chrome](https://www.crx4chrome.com/)
-
-[极简壁纸\_海量电脑桌面壁纸美图\_4K超高清\_最潮壁纸网站](https://bz.zzzmh.cn/index)
-
-[Popular wallpapers | WallpaperUP](https://www.wallpaperup.com/)
-
-[SVG 在线编辑器 - Vectr](https://vectr.com/new)
