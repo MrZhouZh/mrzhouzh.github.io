@@ -1,6 +1,6 @@
 ---
 name: '@vuepress/theme-blog'
-email: 472590061@qq.com
+email: 17600330793@sina.cn
 cover: /images/theme-gallery/blog.png
 from: Official
 theme-tags:
