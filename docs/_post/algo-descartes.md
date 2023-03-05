@@ -5,6 +5,8 @@ date: 2023-03-05
 
 ## 笛卡尔积
 
+常见应用 SKU 选择器
+
 ```js
 const descartes = (skuAttrs = []) => {
   if (skuAttrs.length < 2) {
