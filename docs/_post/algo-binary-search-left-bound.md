@@ -9,15 +9,29 @@ date: 2023-03-07
 
 ```js
 const binarySearchLeftBound = (nums, target) => {
-  let left = 0,
-    right = nums.length
+  // let left = 0,
+  //   right = nums.length
 
-  while(left < right) {
+  // while(left < right) {
+  //   const mid = left + ((right - left) >> 1)
+  //   if (nums[mid] < target) {
+  //     left = mid + 1
+  //   } else {
+  //     right = mid
+  //   }
+  // }
+
+  // return nums[left] === target ? left : -1
+  // --- TODO: Test case ---
+  let left = 0,
+    right = nums.length - 1
+
+  while(left <= right) {
     const mid = left + ((right - left) >> 1)
     if (nums[mid] < target) {
       left = mid + 1
     } else {
-      right = mid
+      right = mid - 1
     }
   }
 

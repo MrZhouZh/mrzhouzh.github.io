@@ -21,6 +21,12 @@ const binarySearchRightBound = (nums, target) => {
     } else if (nums[mid] === target) {
       left = mid + 1
     }
+    // --- TODO: Test case ---
+    // if (nums[mid] > target) {
+    //   right = mid - 1
+    // } else {
+    //   left = mid + 1
+    // }
   }
 
   return nums[right] === target ? right : -1
