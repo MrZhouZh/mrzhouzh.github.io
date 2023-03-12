@@ -3,6 +3,14 @@
  * @param {number[]} nums 
  * @param {number} target 
  * @returns number[]
+ * 
+ * 双循环
+ * 时间复杂度 O(n**2)
+ * 空间复杂度 O(1)
+ * 
+ * map映射
+ * 时间复杂度 O(n)
+ * 空间复杂度 O(n)
  */
 const twoNum = (nums, target) => {
   // 暴力解, 双循环
