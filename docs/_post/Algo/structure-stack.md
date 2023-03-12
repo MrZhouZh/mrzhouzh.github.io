@@ -1,11 +1,14 @@
 ---
 title: 数据结构-栈
 date: 2023-03-02
+category: Algo
 ---
 
 ## 栈
 
-> wikipedia: https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88
+LIFO: Last In First Out(后进先出)
+
+> wikipedia: [https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)
 
 ### 数组实现
 

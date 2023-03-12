@@ -1,11 +1,12 @@
 ---
 title: 算法-两数之和
 date: 2023-03-02
+category: Algo
 ---
 
 ## 两数之和
 
-> 来源: https://leetcode.cn/problems/two-sum/
+> 来源: [https://leetcode.cn/problems/two-sum/](https://leetcode.cn/problems/two-sum/)
 
 
 给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。
@@ -29,27 +30,4 @@ date: 2023-03-02
 
 **关键点在于交换律思路**
 
-```js
-const twoNum = (nums, target) => {
-  // 暴力解, 双循环
-  // for (let i = 0, len = nums.length; i < len; i++) {
-  //   for (let j = i + 1; j < len; j++) {
-  //     if (nums[i] + nums[j] === target) {
-  //       return [i, j]
-  //     }
-  //   }
-  // }
-  // return []
-
-  // map 映射
-  const map = new Map()
-  for (let i = 0, len = nums.length; i < len; i++) {
-    const x = target - nums[i]
-    if (map.has(x)) {
-      return [map.get(x), i]
-    }
-    map.set(nums[i], i)
-  }
-  return []
-}
-```
+<<< @/docs/_code/Algo/twoNum.js#snippet{21,23,25}

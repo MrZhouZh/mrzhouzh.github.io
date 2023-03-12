@@ -1,11 +1,14 @@
 ---
 title: 数据结构-队列
 date: 2023-03-02
+category: Algo
 ---
 
 ## 队列
 
-> wikipedia: https://zh.wikipedia.org/wiki/%E9%98%9F%E5%88%97
+FIFO: First In First Out(先进先出)
+
+> wikipedia: [https://zh.wikipedia.org/wiki/%E9%98%9F%E5%88%97](https://zh.wikipedia.org/wiki/%E9%98%9F%E5%88%97)
 
 
 ### 数组实现
@@ -25,6 +28,8 @@ console.log(queue)  // [1, 2]
 ```
 
 ### 双栈实现队列
+
+<<< @/docs/_code/Algo/Queue.js
 
 ```js
 class CQueue {
