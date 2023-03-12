@@ -1,6 +1,7 @@
 ---
 title: monorepo 入门
 date: 2023-02-23
+tag: monorepo
 ---
 
 ## pnpm + vite + monorepo 最佳实践
