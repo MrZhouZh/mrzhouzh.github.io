@@ -18,4 +18,4 @@ category: Algo
 
 双指针求解, 根据面积公式: **`S(i,j)=min(h[i],h[j])×(j−i)`**, 不断计算面积, 最后得到最大面积
 
-<<< @/docs/_code/Algo/maxArea.js#snippet{21}
+<<< @/docs/_code/Algo/maxArea.js#snippet{24}
