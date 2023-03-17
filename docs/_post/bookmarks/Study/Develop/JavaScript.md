@@ -142,3 +142,5 @@ tags:
 - [支付宝前端 JavaScript 异常档案](https://saijs.github.io/wiki/)
 
 - [写一个 JS 调用栈可视化工具 hound-trace\_前端技术小哥-CSDN博客](https://blog.csdn.net/songfens/article/details/99800028)
+
+- [js 位运算符 hacks](https://smellycode.com/js-bithacks/)

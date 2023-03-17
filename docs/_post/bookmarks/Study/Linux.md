@@ -16,3 +16,5 @@ tags:
 - [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples/)
 
 - [45 Linux Script Examples for beginners - Simple and effective](https://www.dunebook.com/45-linux-script-examples/)
+
+- [Linux软连接和硬链接](https://www.cnblogs.com/itech/archive/2009/04/10/1433052.html)

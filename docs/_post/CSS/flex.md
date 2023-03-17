@@ -125,6 +125,10 @@ category: CSS
 - `space-between` 每行上均分元素, 相邻距离相同, 每行第一个元素与行首对齐，每行最后一个元素与行尾对齐
 - `space-evenly` 沿主轴均分元素, 相邻间距一致
 
+### 参考链接
+
+- [`flex-basis` 和 `width` 的优先级](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)
+
 
 
 

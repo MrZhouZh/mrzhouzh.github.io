@@ -10,3 +10,5 @@ date: 2022-10-24
 - [`MrZhouZh/dotfiles`](https://github.com/MrZhouZh/dotfiles)
 
 - [`MrZhouZh/vscode-settings`](https://github.com/MrZhouZh/vscode-settings)
+
+- [godaddy域名服务商](https://account.godaddy.com/products)

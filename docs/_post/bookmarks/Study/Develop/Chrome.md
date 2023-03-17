@@ -20,3 +20,5 @@ tags:
 - [Chrome Developers docs](https://developer.chrome.com/docs/devtools/overview/)
 
 - [谷歌浏览器插件(Chrome插件)](https://fkxz.cn/)
+
+- [如何像专家一样高效使用 Google 搜索](https://www.freecodecamp.org/chinese/news/how-to-google-like-a-pro-10-tips-for-effective-googling/)

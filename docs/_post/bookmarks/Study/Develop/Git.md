@@ -12,3 +12,5 @@ tags:
 - [git 解决远程仓库文件大小写问题 - 简书](https://www.jianshu.com/p/420d38913578)
 
 - [Git 学习 - Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+
+- [git clone --depth=1之后拉取其他分支](https://zhuanlan.zhihu.com/p/350155254)

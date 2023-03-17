@@ -21,6 +21,10 @@ tag: Tools
 
 [画板工具- 手绘风](https://excalidraw.com/)
 
+[在线制作各种图表 - Graphy | Slick, interactive charts that make you stand out](https://graphy.new/?continueFlag=50231596eb15ada56344fb253ccd81b4)
+
+[colorfu - 在线绘图平台](https://pearmini.github.io/colorfu/#/editor)
+
 ## Code 相关
 
 [es5 转 es6 在线](https://lebab.unibtc.me/editor)
@@ -55,6 +59,10 @@ tag: Tools
 
 [leo：从工程化角度出发的前端脚手架 | leo脚手架](https://doc.jd.com/feb-book/leo/introduction/introduction.html)
 
+[VS Code 设置代码片段格式化工具](https://snippet-generator.app/)
+
+[远程协作代码平台 - 面试](https://coder.com/)
+
 <details>
   <summary>在线编码</summary>
 
@@ -77,6 +85,8 @@ tag: Tools
   <a href="https://carbon.now.sh/" target="_blank">carbon.now.sh</a>
 
   <a href="https://poet.so/" target="_blank">Poet.so | Create Beautiful Images of Twitter Posts</a>
+
+  <a href="https://codehike.org/" target="_blank">codehike - 代码高亮</a>
 </details>
 <!-- <br /> -->
 
@@ -103,6 +113,8 @@ tag: Tools
   <a href="https://github.com/pfan123/svgtool/blob/master/renderer.js" target="_blank">凹凸实验室 - svgtools</a>
 
   <a href="https://github.com/FWeinb/grunt-svgstore/" target="_blank">FWeinb/grunt-svgstore: Merge svgs from a folder</a>
+
+  <a href="https://www.svgator.com/" target="_blank">svgator - 生成SVG头像在线工具</a>
 </details>
 
 <details>
@@ -113,7 +125,6 @@ tag: Tools
   <a href="https://bz.zzzmh.cn/index" target="_blank">极简壁纸\_海量电脑桌面壁纸美图\_4K超高清\_最潮壁纸网站</a>
 
 </details>
-
 
 <details>
   <summary>工具集合</summary>
@@ -126,6 +137,8 @@ tag: Tools
   <a href="https://zhuanlan.zhihu.com/p/63243075" target="_blank">推荐10款全面而强大的在线工具 - 知乎</a>
 
   <a href="https://www.nav3.cn/#/light" target="_blank">发现导航 - 精选实用导航网站</a>
+
+  <a href="https://nav.sankki.com/#/index" target="_blank">闪击工作台</a>
 </details>
 
 ## other
@@ -307,4 +320,8 @@ tag: Tools
 [Remix Icon - Open source icon library](https://remixicon.com/)
 
 [免费素材图片](https://www.pexels.com/zh-cn/)
+
+[Arc浏览器](https://clivethompson.medium.com/the-most-powerful-and-unusual-feature-in-the-new-arc-browser-2552bb7848ce)
+
+[volta - 增强版github项目管理](https://volta.net/)
 
