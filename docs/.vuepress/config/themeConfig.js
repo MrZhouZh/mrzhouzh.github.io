@@ -130,11 +130,11 @@ module.exports = {
         popupComponent: 'ThemeSWUpdatePopup',
         updatePopup: true,
     },
-    // copy: {
-    //     copySelector: ['div[class*="language-"] pre', '.friend-link__content div[class*="language-"] pre'],
-    //     copyMessage: '代码复制成功',
-    //     duration: 1000,
-    // },
+    copy: {
+        copySelector: ['div[class*="language-"] pre', '.friend-link__content div[class*="language-"] pre'],
+        copyMessage: '代码复制成功',
+        duration: 1000,
+    },
     palette: {
         colors: [
             {
