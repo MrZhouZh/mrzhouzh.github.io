@@ -4,7 +4,7 @@ date: 2023-03-23
 category: Algo
 ---
 
-## 两数之和
+## 找出井字棋的获胜者
 
 > 来源: <https://leetcode.cn/problems/find-winner-on-a-tic-tac-toe-game/>
 
