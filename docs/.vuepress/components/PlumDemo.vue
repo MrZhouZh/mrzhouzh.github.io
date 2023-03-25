@@ -93,11 +93,10 @@ export default {
 
 <style scoped>
   canvas {
-    width: 266px;
-    height: 266px;
+    width: 200px;
+    height: 200px;
     background-color: #000;
     border: 1px solid #000;
     transform-origin: top left;
-    transform: translateX(0.5) translateY(0.5) translateZ(0);
   }
 </style>
