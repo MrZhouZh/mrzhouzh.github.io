@@ -35,5 +35,15 @@ const twoNum = (nums, target) => {
   return []
 }
 
+const twoSum2 = (nums, target) => {
+  // if (nums.length === 0) return false
+  // const dict = Object.fromEntries(nums.map(n => [n, true]))
+  // return nums.some(n => dict[target - n])
+
+  // 2. 不考虑性能, 直接 some
+  return nums.some(n => nums.includes(target - n))
+}
+
 console.log(twoNum([3,2,4], 6))
+console.log(twoSum2([1, 1], 2))
 // [1,2]
