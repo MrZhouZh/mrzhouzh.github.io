@@ -90,4 +90,4 @@ type Cases = [
 ]
 // [true, true]
 ```
-::: details 点击查看代码
+:::
