@@ -1,7 +1,6 @@
 /**
  * 洗牌算法
- * Fisher–Yates shuffle
- * see: https://www.cnblogs.com/macq/p/6650586.html
+ * Fisher–Yates shuffle: <https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle>
  * @param {any[]} arr 
  * @returns {any[]}
  */
