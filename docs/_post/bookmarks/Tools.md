@@ -63,83 +63,70 @@ tag: Tools
 
 [远程协作代码平台 - 面试](https://coder.com/)
 
-<details>
-  <summary>在线编码</summary>
+::: details 在线编码
+  [glitch](https://glitch.com/dashboard)
 
-  <a href="https://glitch.com/dashboard" target="_blank">glitch</a>
+  [CodeSandbox](https://codesandbox.io/dashboard)
 
-  <a href="https://codesandbox.io/dashboard" target="_blank">CodeSandbox</a>
-
-  <a href="https://codepen.io/" target="_blank">Codepen</a>
+  [Codepen](https://codepen.io/)
   
-  <a href="https://stackblitz.com/" target="_blank">Stackblitz</a>
+  [Stackblitz](https://stackblitz.com/)
   
-  <a style="text-decoration: line-through" href="https://codepan.egoist.sh/boilerplate/vue" target="_blank">在线运行代码 - CodePan</a>
-</details>
-<!-- <br /> -->
+  [在线运行代码 - CodePan](https://codepan.egoist.sh/boilerplate/vue)
+:::
 
-<details>
-  <summary>生成好看的代码截图</summary>
-  <a href="https://ray.so/" target="_blank">ray.so</a>
+::: details 生成好看的代码截图
+  [ray.so](https://ray.so/)
 
-  <a href="https://carbon.now.sh/" target="_blank">carbon.now.sh</a>
+  [carbon.now.sh](https://carbon.now.sh/)
 
-  <a href="https://poet.so/" target="_blank">Poet.so | Create Beautiful Images of Twitter Posts</a>
+  [Poet.so | Create Beautiful Images of Twitter Posts](https://poet.so/)
 
-  <a href="https://codehike.org/" target="_blank">codehike - 代码高亮</a>
-</details>
-<!-- <br /> -->
+  [codehike - 代码高亮](https://codehike.org/)
+:::
 
-<details>
-  <summary>代码编辑器库</summary>
-  <a href="https://codemirror.net/" target="_blank">CodeMirror</a>
-</details>
+::: details 代码编辑器库
+  [CodeMirror](https://codemirror.net/)
+:::
 
 
-<details>
-  <summary>Chrome</summary>
-  <a href="https://www.crx4chrome.com/" target="_blank">Crx4Chrome</a>
+::: details Chrome
+  [Crx4Chrome](https://www.crx4chrome.com/)
 
-  <a href="https://greasyfork.org/zh-CN/" target="_blank">Greasy Fork - 安全、实用的用户脚本大全</a>
+  [Greasy Fork - 安全、实用的用户脚本大全](https://greasyfork.org/zh-CN/)
 
-  <a href="https://developers.google.com/web/tools" target="_blank">Tools for Web Developers | Google Developers</a>
-</details>
+  [Tools for Web Developers | Google Developers](https://developers.google.com/web/tools)
+:::
 
+::: details SVG 相关
+  [SVG 在线编辑器 - Vectr](https://vectr.com/new)
 
-<details>
-  <summary>SVG 相关</summary>
-  <a href="https://vectr.com/new" target="_blank">SVG 在线编辑器 - Vectr</a>
+  [凹凸实验室 - svgtools](https://github.com/pfan123/svgtool/blob/master/renderer.js)
 
-  <a href="https://github.com/pfan123/svgtool/blob/master/renderer.js" target="_blank">凹凸实验室 - svgtools</a>
+  [FWeinb/grunt-svgstore: Merge svgs from a folder](https://github.com/FWeinb/grunt-svgstore/)
 
-  <a href="https://github.com/FWeinb/grunt-svgstore/" target="_blank">FWeinb/grunt-svgstore: Merge svgs from a folder</a>
+  [svgator - 生成SVG头像在线工具](https://www.svgator.com/)
+:::
 
-  <a href="https://www.svgator.com/" target="_blank">svgator - 生成SVG头像在线工具</a>
-</details>
+::: details 壁纸 相关
+  [Popular wallpapers | WallpaperUP](https://www.wallpaperup.com/)
 
-<details>
-  <summary>壁纸 相关</summary>
+  [极简壁纸\_海量电脑桌面壁纸美图\_4K超高清\_最潮壁纸网站](https://bz.zzzmh.cn/index)
+:::
 
-  <a href="https://www.wallpaperup.com/" target="_blank">Popular wallpapers | WallpaperUP</a>
+::: details 工具集合
+  [九蛙工具箱-网名昵称,特殊符号,微信小工具在线生成](https://www.jiuwa.net/)
 
-  <a href="https://bz.zzzmh.cn/index" target="_blank">极简壁纸\_海量电脑桌面壁纸美图\_4K超高清\_最潮壁纸网站</a>
+  [MikuTools - 一个轻量的工具集合](https://tools.miku.ac/)
 
-</details>
+  [便捷的开发工具 - Home - SmallDev.tools](https://smalldev.tools/)
+  
+  [推荐10款全面而强大的在线工具 - 知乎](https://zhuanlan.zhihu.com/p/63243075)
+  
+  [发现导航 - 精选实用导航网站](https://www.nav3.cn/#/light)
 
-<details>
-  <summary>工具集合</summary>
-  <a href="https://www.jiuwa.net/" target="_blank">九蛙工具箱-网名昵称,特殊符号,微信小工具在线生成</a>
-
-  <a href="https://tools.miku.ac/" target="_blank">MikuTools - 一个轻量的工具集合</a>
-
-  <a href="https://smalldev.tools/" target="_blank">便捷的开发工具 - Home - SmallDev.tools</a>
-
-  <a href="https://zhuanlan.zhihu.com/p/63243075" target="_blank">推荐10款全面而强大的在线工具 - 知乎</a>
-
-  <a href="https://www.nav3.cn/#/light" target="_blank">发现导航 - 精选实用导航网站</a>
-
-  <a href="https://nav.sankki.com/#/index" target="_blank">闪击工作台</a>
-</details>
+  [闪击工作台](https://nav.sankki.com/#/index)
+:::
 
 ## other
 
