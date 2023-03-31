@@ -33,30 +33,96 @@ function getType(target) {
     .toLowerCase();
 }
 
-const deepClone = obj => {
-  if (obj === null) return null
-  let clone = Object.assign({}, obj)
-
-  if (getType(obj) === 'object') {
-    Object.keys(clone).forEach(
-      key => (
-        clone[key] = typeof obj[key] === 'object'
-          ? deepClone(obj[key])
-          : obj[key]
-      )
-    )
+const deepClone = (obj, clonedObj = new WeakMap()) => {
+  if (obj === null || typeof obj !== 'object') return obj
+  if (clonedObj.has(obj)) {
+    return clonedObj.get(obj)
   }
 
-  if (Array.isArray(obj)) {
-    clone.length = obj.length
-    return Array.from(clone)
+  let clone;
+
+  if (getType(obj) === 'date') {
+    clone = new Date(obj.getTime())
+  } else if (getType(obj) === 'regexp') {
+    clone = new RegExp(obj)
+  } else if (getType(obj) === 'function') {
+    clone = function() {
+      return obj.apply(this, arguments)
+    }
+  } else if (getType(obj) === 'symbol') {
+    clone = Object(Symbol.prototype.valueOf.call(obj))
+  } else if (getType(obj) === 'map') {
+    clone = new Map()
+    for (const [key, value] of obj) {
+      clone.set(deepClone(key, clonedObj), deepClone(value, clonedObj))
+    }
+  } else if (getType(obj) === 'set') {
+    clone = new Set()
+    for (const value of obj) {
+      clone.add(deepClone(value, clonedObj))
+    }
+  } else if (getType(obj) === 'object' || getType(obj) === 'array') {
+    clone = new obj.constructor()
+    clonedObj.set(obj, clone)
+    // TODO: Symbol key copy failed
+    for (const [key, value] of Object.entries(obj)) {
+      clone[key] = deepClone(value, clonedObj)
+    }
   }
 
-  // TODO: other type Set RegExp Function
   return clone
 }
 
-// Test
-const a = { foo: 'bar', obj: { a: 1, b: 2 } };
-const b = deepClone(a); // a !== b, a.obj !== b.obj
+// example
+const obj = {
+  dep: {
+    str: '123213',
+    age: 12,
+    bool: true,
+    nullVal: null,
+    undefinedVal: undefined,
+    arr: [1, 2, 3],
+    obj: { a: 1, b: 2 },
+    date: new Date(),
+    regex: /hello/g,
+  },
+  func(x) {
+    console.log(12321, x)
+  },
+  num: 43,
+  symbol: Symbol('test'),
+  [Symbol('symbol1')]: 'foo',
+  bint: BigInt(100)
+}
+
+const clone = deepClone(obj)
+
+console.log(clone)
+// {
+//   dep: {
+//     str: "123213",
+//     age: 12,
+//     bool: true,
+//     nullVal: null,
+//     undefinedVal: undefined,
+//     arr: [
+//       1,
+//       2,
+//       3,
+//     ],
+//     obj: {
+//       a: 1,
+//       b: 2,
+//     },
+//     date: "2023-03-31T13:51:08.118Z",
+//     regex: {
+//     },
+//   },
+//   func: function(x) {
+//     console.log(12321, x)
+//   },
+//   num: 43,
+//   symbol: Symbol(test),
+//   bint: 100n,
+// }
 ```
