@@ -54,3 +54,5 @@ tags:
 - [前端架构探索与实践 - 掘金](https://juejin.cn/post/6873671679080398855)
 
 - [超详细的前端工程化入门教程](https://www.freecodecamp.org/chinese/news/front-end-engineering-tutorial/)
+
+- [package.json 中 你还不清楚的 browser，module，main 字段优先级](https://github.com/SunshowerC/blog/issues/8)

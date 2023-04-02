@@ -42,3 +42,7 @@ tags:
 - [webredis: 基于websocket+redis+nodejs实现消息推送](https://gitee.com/l0km/webredis#webredis)
 
 - [NodeSchool](https://github.com/nodeschool)
+
+- [当我们谈论 cluster 时我们在谈论什么](https://github.com/hustxiaoc/node.js/issues/11)
+
+- [Node.js如何成为高并发的神器](https://heshuai326.github.io/2019/10/21/Node-js%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84%E7%A5%9E%E5%99%A8/)
