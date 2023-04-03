@@ -56,3 +56,5 @@ tags:
 - [超详细的前端工程化入门教程](https://www.freecodecamp.org/chinese/news/front-end-engineering-tutorial/)
 
 - [package.json 中 你还不清楚的 browser，module，main 字段优先级](https://github.com/SunshowerC/blog/issues/8)
+
+- [代码随想录 - 算法精讲](https://github.com/youngyangyang04/leetcode-master)
