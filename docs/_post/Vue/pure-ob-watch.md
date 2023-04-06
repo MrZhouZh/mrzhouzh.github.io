@@ -35,3 +35,4 @@ data.foo = 'test2';
 ### 参考资料
 
 - [腾讯(看点)](https://juejin.cn/post/7036581158670303240#heading-25)
+- [实现简易Vue响应式](https://juejin.cn/post/6989106100582744072#heading-14)
