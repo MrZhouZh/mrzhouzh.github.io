@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mini-vue3 toRef</title>
+</head>
+<body>
+  <h1>Test toRef</h1>
+  <script type="module">
+    import { ref, effect, toRef, reactive } from './reactive.js'
+    const obj = reactive({
+      name: 'jack'
+    })
+    const age = toRef(obj, 'age')
+    age.value = 21
+    console.log(obj)
+
+    effect(() => {
+      age.value = 22
+    })
+    console.log(obj)
+    console.log(age)
+
+    // {
+    //   "name": "jack",
+    //   "age": 21
+    // }
+    // {
+    //   "name": "jack",
+    //   "age": 22
+    // }
+    // {
+    //   "_proxy": {
+    //     "name": "jack",
+    //     "age": 22
+    //   },
+    //   "_key": "age",
+    //   "__v_isRef": true
+    // }
+  </script>
+</body>
+</html>
