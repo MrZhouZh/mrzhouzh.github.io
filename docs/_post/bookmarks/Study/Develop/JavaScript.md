@@ -144,3 +144,5 @@ tags:
 - [写一个 JS 调用栈可视化工具 hound-trace\_前端技术小哥-CSDN博客](https://blog.csdn.net/songfens/article/details/99800028)
 
 - [js 位运算符 hacks](https://smellycode.com/js-bithacks/)
+
+- [Monkey Raptor - 随机字符串](https://monkeyraptor.johanpaul.net/2018/01/javascript-generating-random-text-with.html)

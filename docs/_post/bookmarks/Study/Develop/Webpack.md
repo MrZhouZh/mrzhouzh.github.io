@@ -22,3 +22,7 @@ tags:
 - [主题换色 eaTong/webpack-stylesheet-variable-replacer-plugin: webpack plugin for change theme . 利用webpack实现网页换肤。](https://github.com/eaTong/webpack-stylesheet-variable-replacer-plugin)
 
 - [Tree shaking completely broken\? · Issue #2867 · webpack/webpack](https://github.com/webpack/webpack/issues/2867)
+
+## 原理分析
+
+- [一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/SbJNbSVzSPSKBe2YStn2Zw)

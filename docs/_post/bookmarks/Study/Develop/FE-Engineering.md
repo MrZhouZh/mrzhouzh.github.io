@@ -61,6 +61,14 @@ tags:
 
 - [代码随想录 - 算法精讲](https://github.com/youngyangyang04/leetcode-master)
 
+- [v8文档 - turbofan-jit](https://v8.dev/blog/turbofan-jit)
+
+- [devhints - API速查表](https://devhints.io/)
+
+- [awesome cheatsheets - API速查表](https://lecoupa.github.io/awesome-cheatsheets/)
+
+- [RTSP H264 流 MSE 播放](https://cloud.tencent.com/developer/article/1849611)
+
 ## 面试
 
 - [web前端面试 - 面试官系列](https://vue3js.cn/interview/)

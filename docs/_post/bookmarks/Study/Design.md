@@ -42,3 +42,5 @@ tags:
 - [简单纹理图案的背景设计素材 - Hero Patterns | Free repeatable SVG background patterns for your web projects](https://heropatterns.com/)
 
 - [在线图标](https://icones.js.org/)
+
+- [设计素材 - canva](https://www.canva.cn/en/)
