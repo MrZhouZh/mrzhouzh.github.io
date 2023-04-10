@@ -7,6 +7,8 @@ tags:
     - FE-Engineering
 ---
 
+- [<Badge text="重要" /> 神三元总结 - HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575#heading-30)
+
 - [Codrops - Creative front-end resources and inspiration for web professionals](https://tympanus.net/codrops/)
 
 - [Home | NodeBB | Your Community Forum Platform](https://nodebb.org/)
