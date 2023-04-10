@@ -6,4 +6,14 @@ category: Algo
 
 ## 选择排序
 
-<<< @/docs/_code/Algo/selectionSort.js#snippet{13,17,18}
+解题思路: 
+
+1. 遍历待排序列表, 查找到最小元素, 将最小的元素和列表第一项交换位置. 
+2. 在剩余的元素中继续查找最小元素, 然后与列表第二项交换位置
+3. 依次类推, 直到排序完成
+
+::: details 点击查看代码
+
+<<< @/docs/_code/Algo/selectionSort.js#snippet{13,20}
+
+:::
