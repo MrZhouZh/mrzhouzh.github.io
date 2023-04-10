@@ -53,11 +53,7 @@ tags:
 
 - [react hook 库 - usehooks-ts - React hooks library, written in Typescript](https://usehooks-ts.com/)
 
-- [react docs](https://beta.reactjs.org/)
-
 - [Introduction to React 360 | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-360)
-
-- [图解React原理系列 - 图解React](https://7kms.github.io/react-illustration-series/)
 
 - [react-router — 为反应路由器组件使用多个布局](https://www.it-swarm.dev/zh/react-router/%E4%B8%BA%E5%8F%8D%E5%BA%94%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BB%84%E4%BB%B6%E4%BD%BF%E7%94%A8%E5%A4%9A%E4%B8%AA%E5%B8%83%E5%B1%80/1056074728/)
 
@@ -75,10 +71,21 @@ tags:
 
 - [小而美的egg-react-ssr 开源实现方案-InfoQ](https://www.infoq.cn/article/nji1xakophzxysgjuhj9)
 
+## 原理解析
+
+- [卡颂 - React 技术揭秘(gitee 国内访问)](https://kasong.gitee.io/just-react/)
+
+- [卡颂 - React技术揭秘(卡颂私有域名访问)](https://react.iamkasong.com/)
+
+- [图解React原理系列 - 图解React](https://7kms.github.io/react-illustration-series/)
+
+- [React官方文档](https://react.dev/)
+
+- 已废弃 ~~[React 文档 beta版](https://beta.reactjs.org/)~~
+
+
 ## AntDesign
 
 - [Ant-design 样式冲突解决](https://github.com/ant-design/ant-design/issues/14895#issuecomment-544604399)
-
-- [卡颂 - React技术揭秘](https://react.iamkasong.com/)
 
 - [ReactNext: Israel's largest React Conference – Israels biggest ReactNext conference](https://www.react-next.com/)
