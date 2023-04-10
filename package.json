@@ -4,7 +4,7 @@
   "description": "Jace Chow's personal site",
   "main": "index.js",
   "repository": "https://github.com/MrZhouZh/jace.github.io.git",
-  "author": "Jace Chow <17600330793@sina.cn>",
+  "author": "zhouzhikai3 <zhouzhikai3@jd.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
