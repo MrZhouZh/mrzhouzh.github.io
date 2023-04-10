@@ -7,8 +7,6 @@ tags:
     - Vue
 ---
 
-- [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
-
 - [vue3 - Overview | Vue Class Component](https://class-component.vuejs.org/)
 
 - [组件化页面：封装el-form - SegmentFault 思否](https://segmentfault.com/a/1190000019129799)
@@ -68,6 +66,10 @@ tags:
 - [vue一套代码适应移动端，pc端 - 简书](https://www.jianshu.com/p/5022764e3305)
 
 - [Vue3.0中的monorepo管理模式的实现\_盂希\_前端开发者\_前端开发者](https://www.rokub.com/70793.html)
+
+## 原理解析
+
+- [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## ElementUI
 
