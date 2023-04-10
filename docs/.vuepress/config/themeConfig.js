@@ -3,6 +3,7 @@ module.exports = {
     hostname: 'https://mrzhouzh.github.io',
     nav: [
         { text: '🏠 Home', link: '/' },
+        { text: '🔖 Bookmarks', link: '/categories/bookmark/' },
         // { text: '🔖 Book Marks', link: '/archives/' },
         // { text: '📖 Theme', link: '/post/2020/12/26/theme-learning-0.html' },
         // { text: '🐉 Maker Docs', link: '/_post/maker.md' },
