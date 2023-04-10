@@ -17,7 +17,7 @@ tags:
 
 - [阿里设计：讲透响应式布局设计策略 \(目前看过最有威力的一篇\)-技术圈](https://jishuin.proginn.com/p/763bfbd5b525)
 
-- [招商页面 / Seller Website V2.0 - RELAAAY](https://relay.jd.com/web/project/detail/80439e58-d3a5-4399-a341-f1695fade441)
+<!-- - [招商页面 / Seller Website V2.0 - RELAAAY](https://relay.jd.com/web/project/detail/80439e58-d3a5-4399-a341-f1695fade441) -->
 
 - [react使用scrollreveal页面加载会闪烁一下问题解决\_咲奈的博客-CSDN博客](https://blog.csdn.net/qq_21567385/article/details/117911455)
 
