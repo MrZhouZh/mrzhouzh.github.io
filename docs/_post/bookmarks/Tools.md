@@ -128,6 +128,32 @@ tag: Tools
   [闪击工作台](https://nav.sankki.com/#/index)
 :::
 
+::: details 生成头像工具
+  [AI生成头像 - Free Profile Picture Maker - Create an awesome profile pic from any photo](https://pfpmaker.com/)
+
+  [charatoon - 卡通头像](https://charatoon.com/)
+
+  [bitmoji - 生成头像](https://www.bitmoji.com/)
+
+  [国内外免费好用的头像生成器和网站](https://zhuanlan.zhihu.com/p/548012217)
+:::
+
+::: details 在线听音乐
+  [音乐搜索器(可下载)](https://www.yeyulingfeng.com/tools/music)
+
+  [周杰伦音乐在线听](https://lvyueyang.github.io/web-music/app/)
+
+  [在线听音乐刘明野旧版](http://tools.liumingye.cn/music_old/?page=searchPage)
+
+  [在线听音乐刘明野新版版](https://tool.liumingye.cn/music/#/)
+  
+  [下歌吧音乐下载平台](https://music.y444.cn/#/)
+
+  [百乐米](https://bailemi.com/)
+
+  [铜钟](https://tonzhon.com/)
+:::
+
 ## other
 
 [在线测试接口 命令行](https://httpie.org/run)
@@ -140,7 +166,7 @@ tag: Tools
 
 [「推荐收藏 」 20个Web前端开发工程师必看的国外网站 - 掘金](https://juejin.im/post/6844904031718998029)
 
-[听音乐](https://lvyueyang.github.io/web-music/app/)
+[刘明野的工具箱](https://tool.liumingye.cn/)
 
 [首页-书签地球-中国首家浏览器书签共享平台](https://www.bookmarkearth.com/)
 
@@ -290,8 +316,6 @@ tag: Tools
 
 [大多数开发语言和工具的API集合 - OverAPI.com | Collecting all the cheat sheets](https://overapi.com/)
 
-[AI生成头像 - Free Profile Picture Maker - Create an awesome profile pic from any photo](https://pfpmaker.com/)
-
 [生成优质简历 - Create Your Job-winning Resume - \(Free\) Resume maker · Resume.io](https://resume.io/)
 
 [创建基于AI的视频 - Synthesia - AI Video Generation Platform](https://www.synthesia.io/)
@@ -311,4 +335,6 @@ tag: Tools
 [Arc浏览器](https://clivethompson.medium.com/the-most-powerful-and-unusual-feature-in-the-new-arc-browser-2552bb7848ce)
 
 [volta - 增强版github项目管理](https://volta.net/)
+
+[js.org - 提供免费的一级域名用来部署项目](https://js.org/)
 
