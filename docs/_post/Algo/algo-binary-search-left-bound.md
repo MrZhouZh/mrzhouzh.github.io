@@ -8,4 +8,8 @@ category: Algo
 
 > 实现原理: 传入的是一个有序的数组, 左右递减, 取中间下标进行匹配, 如果中值小于目标值, 左下标向右移动一位, 小于则右下标等于中下标, 缩小搜索边界
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/binarySearchLeftBound.js#snippet{25,28,34}
+
+:::

@@ -29,4 +29,8 @@ console.log(queue)  // [1, 2]
 
 ### 双栈实现队列
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/Queue.js
+
+:::

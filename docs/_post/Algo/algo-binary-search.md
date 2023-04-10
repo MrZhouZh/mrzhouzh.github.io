@@ -10,4 +10,8 @@ category: Algo
 
 > 实现原理: 左右递减, 取中间下标进行匹配, 如果小于目标值, 左下标向右移动一位, 反之右下标项向左移动一位
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/binarySearch.js#snippet{13,16,18,20}
+
+:::

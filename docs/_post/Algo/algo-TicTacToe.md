@@ -16,4 +16,8 @@ A 和 B 在一个 3 x 3 的网格上玩井字棋。给你一个数组 moves，�
 
 2. 设定好棋盘取胜的线(共8种), 再进行坐标和取胜位置的匹配即可
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/TicTacToe.js#snippet{46,51}
+
+:::

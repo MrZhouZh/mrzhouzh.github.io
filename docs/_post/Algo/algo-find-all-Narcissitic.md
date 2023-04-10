@@ -15,4 +15,8 @@ category: Algo
   - 三位数: [100, 999]
   - 四位数: [1000, 9999]
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/findAllNarcissistic.js#snippet{18,20}
+
+:::

@@ -8,4 +8,8 @@ category: Algo
 
 常见应用 SKU 选择器
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/descartes.js#snippet{15}
+
+:::

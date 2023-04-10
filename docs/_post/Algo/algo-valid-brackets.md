@@ -16,4 +16,8 @@ category: Algo
 
 利用栈的特性(LIFO), 构建一个 Map 括号映射, 左括号为 key , 右括号为 value, 将字符串中存在左括号压入栈中, 右括号出栈顶, 最后栈中如果有剩余长度则表示不合法.
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/isValidBrackets.js#snippet{18,20}
+
+:::

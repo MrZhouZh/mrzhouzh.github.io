@@ -10,4 +10,8 @@ category: Algo
 
 > wikipedia: [https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
 
+::: details 点击查看代码
+
 <<< @/docs/_code/Algo/LinkedList.js
+
+:::

@@ -16,6 +16,8 @@ const mergedObj = mergeObj(data1, data2);
 
 实现思路: 利用 reduce 可重新构造对象, 引用类型的可变性来缓存值
 
+::: details 点击查看代码
+
 ```js {5}
 function mergeObj(...data) {
   return data.reduce((prev, obj) => {
@@ -49,7 +51,9 @@ console.log('mergedObj -- ', mergedObj)
 // }
 ```
 
-### 变种
+:::
+
+<!-- ### 变种
 
 ```js
 tools.transfer('[abc[def[ghi]]]')
@@ -116,7 +120,7 @@ const tools = {
     return string.substring(string.indexOf('['), string.lastIndexOf(']') + 1);
   }
 }
-```
+``` -->
 
 
 
