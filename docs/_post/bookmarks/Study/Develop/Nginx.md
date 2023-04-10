@@ -42,3 +42,5 @@ tags:
 - [proxy\_pass url 反向代理的坑 | Nginx 入门教程](https://xuexb.github.io/learn-nginx/example/proxy_pass.html#url-%E5%8C%85%E5%90%AB%E8%B7%AF%E5%BE%84)
 
 - [NGINX 性能优化7个建议 - 7 Tips to Improve HTTP2 Performance | NGINX](https://www.nginx.com/blog/7-tips-for-faster-http2-performance/)
+
+- [Nginx RTMP 推流](https://github.com/Akagi201/live-streaming-server/tree/master/nginx-rtmp)
