@@ -79,6 +79,8 @@ tags:
 
 - [图解React原理系列 - 图解React](https://7kms.github.io/react-illustration-series/)
 
+- [acdlite - 讲述fiber架构](https://github.com/acdlite/react-fiber-architecture)
+
 - [React官方文档](https://react.dev/)
 
 - 已废弃 ~~[React 文档 beta版](https://beta.reactjs.org/)~~
