@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">Hello World!</div>
+  
+  <script src="./MyPlugin.js"></script>
+  <script src="./MyPlugin-Closure.js"></script>
+  <script>
+    _$MyPlugin('#app')
+      .setBackground('#ff0')
+      .setWidth('200px')
+      .setHeight('100px');
+
+    // MyPlugin2 test
+    var aFn = new MyPlugin2()
+    var bFn = new MyPlugin2(13800138000)
+    console.log(aFn.reg)  // undefined
+
+    var reg = aFn.getRegs();
+    console.log(reg); // { "phone": /^1[3456789]\d{9}$/, "number": /^-?\d*\.?\d+$/ }
+
+    bFn.isPhone().isNumber();  // > 这是手机号 > 这是数字
+
+  </script>
+</body>
+</html>
