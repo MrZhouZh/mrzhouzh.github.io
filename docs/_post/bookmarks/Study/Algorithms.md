@@ -18,3 +18,5 @@ tags:
 - [从JS遍历DOM树学算法](https://juejin.im/post/6844903731973062669)
 
 - [算法可视化图表](https://algorithm-visualizer.org/brute-force/selection-sort)
+
+- [算法背后的六种思想](https://juejin.cn/post/7127212015159869470)
