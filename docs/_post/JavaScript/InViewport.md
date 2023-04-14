@@ -17,6 +17,13 @@ category: JavaScript
 
 ### Element.getBoundingClientRect()
 
+> `getBoundingClientRect` 返回一个 [`DOMRect`](https://developer.mozilla.org/zh-CN/docs/Web/API/DOMRect) 对象, 提供了元素的大小及其想对视口的位置.
+
+示意图如下:
+
+![Element.getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect/element-box-diagram.png)
+
+
 如果一个元素在视窗之内的话，那么它一定满足下面四个条件：
 
 - top 大于等于 0
