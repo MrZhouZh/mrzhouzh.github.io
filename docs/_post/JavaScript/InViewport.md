@@ -19,8 +19,8 @@ category: JavaScript
 
 如果一个元素在视窗之内的话，那么它一定满足下面四个条件：
 
-- top 大于等于 
-- left 大于等于 
+- top 大于等于 0
+- left 大于等于 0
 - bottom 小于等于视窗高
 - right 小于等于视窗宽度
 
