@@ -24,3 +24,7 @@ I like reading technical blogs, such as juejin, github, medium, and so on. and a
 - [hirist - 外企招聘网站](https://www.hirist.com/c/frontend-developer-jobs.html?ref=homepagecat&pref=g4g)
 
 - [glassdoor - 外企招聘网站](https://www.glassdoor.com/member/home/index.htm)
+
+- [程序员如何应对英语面试](https://www.zhihu.com/question/28853435)
+
+- [外企面试顺利通关全攻略！](https://zhuanlan.zhihu.com/p/367010672)
