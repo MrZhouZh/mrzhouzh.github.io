@@ -13,3 +13,7 @@ category: Algo
 <<< @/docs/_code/Algo/descartes.js#snippet{15}
 
 :::
+
+## 参考资料
+
+- [政采云技术 - 电商最小存货 - SKU 和 算法实现](https://juejin.cn/post/7002746459456176158)
