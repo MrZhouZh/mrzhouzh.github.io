@@ -99,7 +99,7 @@ console.log(clone)
 //       a: 1,
 //       b: 2,
 //     },
-//     date: "2023-04-10T11:59:43.017Z",
+//     date: Sat Apr 10 2023 18:10:36 GMT+0800 (中国标准时间) {},
 //     regex: /hello/g,
 //   },
 //   func: function(x) {
