@@ -6,6 +6,8 @@ category: Vue
 
 ## 绘制梅花树背景
 
+测试渲染 Vue 组件
+
 ::: demo
 <PlumDemo slot="preview" />
 
