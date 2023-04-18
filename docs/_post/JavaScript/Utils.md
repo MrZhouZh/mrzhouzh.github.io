@@ -20,6 +20,15 @@ category: JavaScript
 
 <!-- 点击查看[测试示例](/_code/JavaScript/Utils/index.test.html)代码 -->
 
+### throttle
+
+节流: 在一定时间内仅触发一次函数, 如果在这段时间内被多次触发, 只一次生效
+
+::: details 点击查看代码
+
+<<< @/docs/_code/JavaScript/Utils/throttle.js
+
+:::
 
 ## 参考资料
 

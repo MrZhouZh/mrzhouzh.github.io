@@ -9,8 +9,14 @@
 <body>
   <h1>Utils Test</h1>
   <p>Please open the browser's devTools</p>
-  
+
+  <div class="throttle-demo">
+    <label for="throttle">节流输入框</label>
+    <input type="text" name="throttle" id="throttleInput" />
+  </div>
+
   <script src="./debounce.js"></script>
+  <script src="./throttle.js"></script>
   <script>
     // debounce
     window.addEventListener(
@@ -19,6 +25,20 @@
         console.log(window.innerWidth)
         console.log(window.innerHeight)
       }, 200)
+    )
+
+    // throttle
+    function requestApi(content) {
+      console.log(`Sending a request with the ${content}`)
+    }
+
+    const throttleInput = document.querySelector('#throttleInput')
+    const throttleCallback = throttle(requestApi, 1000)
+    throttleInput.addEventListener(
+      'keyup',
+      function(ev) {
+        throttleCallback(ev.target.value)
+      }
     )
   </script>
 </body>
