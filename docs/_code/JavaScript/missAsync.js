@@ -50,11 +50,10 @@ function run(fn) {
         },
         err => {
           result.status = 'rejected'
-          result.data = err
+          result.err = err
         }
       )
       throw promise
-      // return promise
   }
 
   try {
