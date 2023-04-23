@@ -57,6 +57,14 @@ const binaryTreeOrder = {
   },
   // 后序遍历
   postOrder(root) {
-    // 
+    const res = []
+    function traverse(node) {
+      if (!node) return
+      traverse(node.left)
+      traverse(node.right)
+      res.push(node.val)
+    }
+    traverse(root)
+    return res
   }
 }
