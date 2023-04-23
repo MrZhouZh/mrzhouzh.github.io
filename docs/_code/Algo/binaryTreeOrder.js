@@ -57,14 +57,29 @@ const binaryTreeOrder = {
   },
   // 后序遍历
   postOrder(root) {
+    // const res = []
+    // function traverse(node) {
+    //   if (!node) return
+    //   traverse(node.left)
+    //   traverse(node.right)
+    //   res.push(node.val)
+    // }
+    // traverse(root)
+    // return res
+    // 迭代
+    if (!root) return null
     const res = []
-    function traverse(node) {
-      if (!node) return
-      traverse(node.left)
-      traverse(node.right)
-      res.push(node.val)
+    const stack = [root]
+    while(stack.length) {
+      const node = stack.pop()
+      res.unshift(node.val)
+      if (node.left) {
+        stack.push(node.left)
+      }
+      if (node.right) {
+        stack.push(node.right)
+      }
     }
-    traverse(root)
     return res
   }
 }
