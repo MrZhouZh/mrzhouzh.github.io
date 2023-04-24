@@ -84,14 +84,36 @@ const binaryTreeOrder = {
   },
   // 层序遍历
   levelOrder(root) {
+    // const res = []
+    // function traverse(node, level) {
+    //   if (!node) return null
+    //   (res[level] || (res[level] = [])).push(node.val)
+    //   traverse(node.left, level + 1)
+    //   traverse(node.right, level + 1)
+    // }
+    // traverse(root, 0)
+    // return res
+
+    // 迭代
     const res = []
-    function traverse(node, level) {
-      if (!node) return null
-      (res[level] || (res[level] = [])).push(node.val)
-      traverse(node.left, level + 1)
-      traverse(node.right, level + 1)
+    const queue = [root]
+    let level = 0
+
+    while(queue.length) {
+      res.push([])
+      for (let i = 0; i < queue.length; i++) {
+        const node = queue.shift()
+        res[level].push(node.val)
+        if (node.left) {
+          queue.push(node.left)
+        }
+        if (node.right) {
+          queue.push(node.right)
+        }
+      }
+      level++
     }
-    traverse(root, 0)
+
     return res
   }
 }
