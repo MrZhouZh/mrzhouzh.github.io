@@ -81,5 +81,17 @@ const binaryTreeOrder = {
       }
     }
     return res
+  },
+  // 层序遍历
+  levelOrder(root) {
+    const res = []
+    function traverse(node, level) {
+      if (!node) return null
+      (res[level] || (res[level] = [])).push(node.val)
+      traverse(node.left, level + 1)
+      traverse(node.right, level + 1)
+    }
+    traverse(root, 0)
+    return res
   }
 }
