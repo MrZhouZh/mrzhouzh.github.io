@@ -8,7 +8,7 @@ category: Design-pattern
 
 ::: tip reference
 
-摘自: <<Design Patterns: Elements of Reusable Object-Oriented Software>>
+摘自: "Design Patterns: Elements of Reusable Object-Oriented Software" 一书
 
 1. Program to an interface, not an implementation.(面向接口编程)
 
