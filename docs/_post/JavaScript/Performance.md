@@ -8,6 +8,14 @@ category: JavaScript
 
 > source: [MDN - Performance API](https://developer.mozilla.org/zh-CN/docs/Web/API/Performance_API)
 
+核心 Web 指标:
+
+- [Largest Contentful Paint (LCP)](https://web.dev/lcp/): 最大内容绘制, 测量加载性能. 为了提供良好的用户体验, LCP 应在页面首次开始加载后的**2.5**秒内发生
+
+- [First Input Delay (FID)](https://web.dev/fid/): 首次输入延迟，测量交互性。为了提供良好的用户体验，页面的 FID 应为100 毫秒或更短.
+
+- [Cumulative Layout Shift (CLS)](https://web.dev/cls/): 累积布局偏移, 测量视觉稳定性. 为了提供良好的用户体验, 页面的 CLS 应保持在 **0.1** 或更少
+
 常用性能计算公式:
 
 这些指标可以通过 Web Performance API 中的 Performance Timing 接口和 Performance Observer 接口来获取。其中，Performance Timing 接口提供了浏览器加载页面的各个阶段的时间戳，而 Performance Observer 接口则允许我们观察页面中的资源加载、DOM 渲染等事件，并计算相应的性能指标。
@@ -31,5 +39,14 @@ category: JavaScript
 ## 参考资料
 
 - [Web 性能](https://developer.mozilla.org/zh-CN/docs/Web/Performance)
+
+- [Web 指标](https://web.dev/i18n/zh/vitals/)
+
+- [优化最大内容绘制 Largest Contentful Paint(LCP)](https://web.dev/i18n/zh/optimize-lcp/)
+
+- [优化首次输入延迟 First Input Delay(FID)](https://web.dev/i18n/zh/optimize-fid/)
+
+- [优化累积布局偏移 Cumulative Layout shift(CLS)](https://web.dev/i18n/zh/optimize-cls/)
+
 
 
