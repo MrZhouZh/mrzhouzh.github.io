@@ -1,5 +1,5 @@
 const binaryTreeOrder = {
-  // 前序遍历
+  // 前序遍历: 根 -> 左 -> 右
   preOrder(root) {
     // const res = []
     // function traverse(node) {
@@ -26,7 +26,7 @@ const binaryTreeOrder = {
     }
     return res
   },
-  // 中序遍历
+  // 中序遍历: 左 -> 根 -> 右
   inOrder(root) {
     // const res = []
     // function traverse(node) {
@@ -55,7 +55,7 @@ const binaryTreeOrder = {
       }
     }
   },
-  // 后序遍历
+  // 后序遍历: 左 -> 右 -> 根
   postOrder(root) {
     // const res = []
     // function traverse(node) {
