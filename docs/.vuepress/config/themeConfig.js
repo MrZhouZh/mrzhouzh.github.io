@@ -121,7 +121,7 @@ module.exports = {
         },
         twitterCard: _ => 'summary_large_image',
         type: $page => ['articles', '_post', 'blog', '_theme', 'bookmarks'].some(folder => $page.regularPath.startsWith(`/${folder}`)) ? 'article' : 'website',
-        url: (_, $site, path) => ($site.themeConfig.hostname || '') + path,
+        url: (_, $site, path) => ((location && location.origin) || $site.themeConfig.hostname || '') + path,
         image: ($page, $site) => $page.frontmatter.cover && (($site.themeConfig.hostname && !$page.frontmatter.cover.startsWith('http') || '') + $page.frontmatter.cover),
         publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
         modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated)
