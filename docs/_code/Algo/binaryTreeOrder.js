@@ -50,7 +50,7 @@ const binaryTreeOrder = {
       }
       const node = stack.pop()
       res.push(node.val)
-      if (node.tight !== null) {
+      if (node.right !== null) {
         cur = cur.right
       }
     }
