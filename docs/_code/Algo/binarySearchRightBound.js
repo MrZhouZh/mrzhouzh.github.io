@@ -18,6 +18,8 @@ const binarySearchRightBound = (nums, target) => {
     //   left = mid + 1
     // }
     // --- TODO: Test case ---
+    // mid = left + Math.floor((right - left) / 2)
+    const mid = left + ((right - left) >> 1)
     if (nums[mid] > target) {
       right = mid - 1
     } else {
