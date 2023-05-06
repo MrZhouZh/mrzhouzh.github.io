@@ -15,6 +15,7 @@ function throttle(fn, ms) {
     } else {
       clearTimeout(lastFn)
       lastFn = setTimeout(function() {
+        // 当前时间 - 上一次触发的时间 大于 等待时间
         if (Date.now() - lastTime >= ms) {
           fn.apply(context, args)
           lastTime = Date.now()
