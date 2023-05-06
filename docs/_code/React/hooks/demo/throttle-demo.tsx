@@ -11,7 +11,7 @@ export default function DebounceDemo() {
 
   useEffect(() => {
     // request api data...
-    // do something when 'debouncedValue' changed. 
+    // do something when 'throttledValue' changed. 
     console.log('throttledValue has changed.')
   }, [throttledValue])
 
