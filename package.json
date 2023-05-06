@@ -13,8 +13,12 @@
     "deploy": "sh deploy.sh"
   },
   "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
     "axios": "^1.1.3",
     "crypto": "^1.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "vuepress-theme-maker": "^1.2.3"
   }
 }
