@@ -26,6 +26,6 @@ groupArrayElements([1, 2, 3, 4, 5, 6], 4) // 输出: [[1, 2], [3, 4], [5], [6]]
 
 ::: details 点击查看代码
 
-<<< @/docs/_code/Interview/klook.js#snippet{13,44,46}
+<<< @/docs/_code/Interview/klook.js#snippet{13,43,45}
 
 :::
