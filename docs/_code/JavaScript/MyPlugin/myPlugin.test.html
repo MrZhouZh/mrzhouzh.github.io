@@ -11,7 +11,10 @@
   
   <script src="./MyPlugin.js"></script>
   <script src="./MyPlugin-Closure.js"></script>
+  <!-- <script src="./LazyMan.js"></script> -->
+  <script src="./LazyMan-class.js"></script>
   <script>
+    LazyMan('Hank').eat('supper').sleepFirst(5)
     _$MyPlugin('#app')
       .setBackground('#ff0')
       .setWidth('200px')
