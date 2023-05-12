@@ -40,13 +40,11 @@ function groupArrayElements(arr, size) {
   return Array.from(
     { length: size },
     (_, i) => {
-      let group = []
       if (newArr.length <= chunkSize || (size - i) === newArr.length) {
         // 重新计算剩余平均分组长度
         chunkSize = Math.ceil(newArr.length / (size - i))
       }
-      group.push(newArr.splice(0, chunkSize))
-      return group
+      return newArr.splice(0, chunkSize)
     }
   )
 }
