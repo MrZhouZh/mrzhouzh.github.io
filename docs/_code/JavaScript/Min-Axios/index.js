@@ -1,5 +1,10 @@
 class MinAxios {
-  constructor() {}
+  constructor() {
+    this.interceptors = {
+      request: new InterceptorsMange,
+      response: new InterceptorsMange,
+    }
+  }
 
   request(config) {
     return new Promise(resolve => {
@@ -19,6 +24,7 @@ function CreateAxiosFn() {
   const req = axios.request.bind(axios)
   // MinAxios.prototype 混入到 request 上
   utils.extend(req, MinAxios.prototype, axios)
+  utils.extend(req, axios)
   return req
 }
 
@@ -60,5 +66,18 @@ const utils = {
         }
       }
     }
+  }
+}
+
+class InterceptorsMange {
+  constructor() {
+    this.handlers = []
+  }
+
+  use(fulfilled, rejected) {
+    this.handlers.push({
+      fulfilled,
+      rejected
+    })
   }
 }
