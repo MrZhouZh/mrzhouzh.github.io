@@ -51,9 +51,24 @@ category: Interview
 
 - Q: react hooks 对比 class 组件
 
+::: tip 参考链接
+
+1. [Dan 博客 - 函数式组件与类组件有何不同？](https://overreacted.io/zh-hans/how-are-function-components-different-from-classes/)
+
+2. [知乎 - 为什么 React 现在要推行函数式组件，用 class 不好吗？](https://www.zhihu.com/question/343314784/answer/937174224)
+
+3. [React.js 官方文档 - hooks简介](https://zh-hans.legacy.reactjs.org/docs/hooks-intro.html)
+
+:::
+
 ::: details 点击查看答案
 
-// 无状态
+| 函数式组件 | class 组件
+| - | -
+| 维护自己的state/props | 组件实例化一次, 通过 this 拿到最新的state/props
+| 组件逻辑聚合 | 组件逻辑分散
+| 逻辑复用简单 | 逻辑复用困难
+| 心智负担小 | 心智负担大
 
 :::
 
@@ -69,7 +84,7 @@ category: Interview
 
 ::: details 点击查看答案
 
-*To be Continued...*
+![查看图片](/images/Interview/node-ssr-react.png)
 
 :::
 
