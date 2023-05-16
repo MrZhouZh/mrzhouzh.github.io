@@ -17,6 +17,8 @@ class MinAxios {
 function CreateAxiosFn() {
   const axios = new MinAxios()
   const req = axios.request.bind(axios)
+  // MinAxios.prototype 混入到 request 上
+  utils.extend(req, MinAxios.prototype, axios)
   return req
 }
 
