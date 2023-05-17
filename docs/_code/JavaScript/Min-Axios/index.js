@@ -7,6 +7,28 @@ class MinAxios {
   }
 
   request(config) {
+    // 拦截器和请求队列
+    let chain = [this.sendAjax.bind(this), undefined]
+
+    // 请求拦截
+    this.interceptors.request.handlers.forEach(interceptor => {
+      chain.unshift(interceptor.fulfilled, interceptor.rejected)
+    })
+    // 响应拦截
+    this.interceptors.response.handlers.forEach(interceptor => {
+      chain.push(interceptor.fulfilled, interceptor.rejected)
+    })
+    
+    // 执行队列
+    let promise = Promise.resolve(config)
+    while(chain.length > 0) {
+      promise = promise.then(chain.shift(), chain.shift())
+    }
+
+    return promise
+  }
+
+  sendAjax(config) {
     return new Promise(resolve => {
       const { url = '', method = 'get', data = {} } = config
       const xhr = new XMLHttpRequest()
@@ -20,12 +42,12 @@ class MinAxios {
 }
 
 function CreateAxiosFn() {
-  const axios = new MinAxios()
-  const req = axios.request.bind(axios)
+  const context = new MinAxios()
+  const instance = context.request.bind(context)
   // MinAxios.prototype 混入到 request 上
-  utils.extend(req, MinAxios.prototype, axios)
-  utils.extend(req, axios)
-  return req
+  utils.extend(instance, MinAxios.prototype, context)
+  utils.extend(instance, context)
+  return instance
 }
 
 // const axios = new CreateAxiosFn()
@@ -69,6 +91,7 @@ const utils = {
   }
 }
 
+// 拦截器
 class InterceptorsMange {
   constructor() {
     this.handlers = []
