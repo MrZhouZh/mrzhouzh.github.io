@@ -16,7 +16,7 @@ category: JavaScript
 
 - [Cumulative Layout Shift (CLS)](https://web.dev/cls/): 累积布局偏移, 测量视觉稳定性. 为了提供良好的用户体验, 页面的 CLS 应保持在 **0.1** 或更少
 
-常用性能计算公式:
+<!-- 常用性能计算公式:
 
 这些指标可以通过 Web Performance API 中的 Performance Timing 接口和 Performance Observer 接口来获取。其中，Performance Timing 接口提供了浏览器加载页面的各个阶段的时间戳，而 Performance Observer 接口则允许我们观察页面中的资源加载、DOM 渲染等事件，并计算相应的性能指标。
 
@@ -34,7 +34,7 @@ category: JavaScript
 | 页面加载时间(Page Load Time, PLT)| 从页面开始加载到页面所有资源加载完成且 DOM 渲染完成的时间 | `-`
 | 可交互时间(Time to Interactive, TTI) | 从页面开始加载到页面变得可交互的时间 | `-`
 | 首次输入延迟(First Input Delay, FID) | 从用户首次与页面交互到页面响应交互的时间 | `-`
-| 总下载时间(Total Download Time, TDT) | 从页面开始加载到所有资源下载完成的时间 | `-`
+| 总下载时间(Total Download Time, TDT) | 从页面开始加载到所有资源下载完成的时间 | `-` -->
 
 ## 参考资料
 
