@@ -40,9 +40,9 @@ groupArrayElements([1, 2, 3, 4, 5, 6], 4) // 输出: [[1, 2], [3, 4], [5], [6]]
 
 ::: tip 参考链接
 
-- Web 前端安全, 如何防止 XSS 攻击: https://www.arryblog.com/interview/advanced/security-xss.html
+- [Web 前端安全, 如何防止 XSS 攻击: ](https://www.arryblog.com/interview/advanced/security-xss.html)
 
-- 美团 - 前端安全系列（一）：如何防止XSS攻击？: https://tech.meituan.com/2018/09/27/fe-security.html
+- [美团 - 前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 
 :::
 
