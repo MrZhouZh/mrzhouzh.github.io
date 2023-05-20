@@ -31,4 +31,4 @@ tag: Other
 
 - [中国动画百年发展史（上） - 知乎](https://zhuanlan.zhihu.com/p/22265130)
 
-- [第6章 Vue 动画 | 深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/vue-ebook/6.html#_6-1-transition-%E7%BB%84%E4%BB%B6)
+- [创投平台 - 36氪](https://pitchhub.36kr.com/)

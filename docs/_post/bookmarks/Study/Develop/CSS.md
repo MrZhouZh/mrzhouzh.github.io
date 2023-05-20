@@ -49,6 +49,8 @@ tags:
 
 ## Sass
 
+- [code snippets about sass](https://css-tricks.com/snippets/sass/)
+
 - [Sass：\@use rule | Titangene Blog](https://titangene.github.io/article/sass-use-rule.html)
 
 - [「前端笔记」 Sass使用混合器mixin进行样式复用，保持代码整洁 - 喵容](https://www.miaoroom.com/resource/code/ued/css/sass-mixin-extends.html)
@@ -92,3 +94,11 @@ tags:
 - [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 
 - [CSS component](https://tailblocks.cc/)
+
+- [CSS 布局示例 - Web Design Experiments by Jen Simmons](https://labs.jensimmons.com/)
+
+- [Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples/)
+
+- [SVG动画从入门到实战，提升你的网站表现力](https://juejin.cn/post/7083262239569870856)
+
+- [贝塞尔曲线入门](https://github.com/Pomax/BezierInfo-2)

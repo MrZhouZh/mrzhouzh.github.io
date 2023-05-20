@@ -67,6 +67,16 @@ tags:
 
 - [Vue3.0中的monorepo管理模式的实现\_盂希\_前端开发者\_前端开发者](https://www.rokub.com/70793.html)
 
+- [u3u/vue-hooks: ⚡️Awesome Vue Hooks](https://github.com/u3u/vue-hooks)
+
+- [多图预警⚠️ · Vue 是怎么解决 Glitching avoidance 的？](https://xlog.htcube.top/vue-glitching-avoidance)
+
+- [Vue 3 迁移指南 | Vue 3 迁移指南](https://v3-migration.vuejs.org/zh/)
+
+- [第6章 Vue 动画 | 深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/vue-ebook/6.html#_6-1-transition-%E7%BB%84%E4%BB%B6)
+
+- [snabbdom/snabbdom: A virtual DOM library with focus on simplicity, modularity, powerful features and performance.](https://github.com/snabbdom/snabbdom)
+
 ## 原理解析
 
 - [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)

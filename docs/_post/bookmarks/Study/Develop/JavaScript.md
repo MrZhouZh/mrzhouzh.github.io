@@ -146,3 +146,13 @@ tags:
 - [js 位运算符 hacks](https://smellycode.com/js-bithacks/)
 
 - [Monkey Raptor - 随机字符串](https://monkeyraptor.johanpaul.net/2018/01/javascript-generating-random-text-with.html)
+
+- [JavaScript 中精度问题以及解决方案](https://www.runoob.com/w3cnote/js-precision-problem-and-solution.html)
+
+- [一个简单的地图 | OpenLayers 3 Primer](https://linwei.xyz/ol3-primer/ch02/index.html)
+
+- [把萌萌哒的看板娘抱回家 live2d](https://github.com/stevenjoezhang/live2d-widget)
+
+- [二次元live2d看板娘效果中的web前端技术 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2018/05/live2d-web-webgl-js/)
+
+- [位运算骚操作](http://graphics.stanford.edu/~seander/bithacks.html#ReverseParallel)

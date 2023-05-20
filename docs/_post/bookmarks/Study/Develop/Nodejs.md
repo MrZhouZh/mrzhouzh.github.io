@@ -48,3 +48,9 @@ tags:
 - [Node.js如何成为高并发的神器](https://heshuai326.github.io/2019/10/21/Node-js%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84%E7%A5%9E%E5%99%A8/)
 
 - [Node.js学习之Telnet](https://blog.csdn.net/u012187452/article/details/73844654)
+
+- [node 小爬虫，爬取本地新闻](https://github.com/imondo/news-crawler/tree/master)
+
+- [PM2 - PM2 API](https://pm2.keymetrics.io/docs/usage/pm2-api/)
+
+- [Node.js学习之Telnet](https://blog.csdn.net/u012187452/article/details/73844654)

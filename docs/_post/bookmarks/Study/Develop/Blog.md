@@ -21,6 +21,8 @@ tags:
 
 - [npm 发布包遇到的问题 · Issue #28 · XXHolic/segment](https://github.com/XXHolic/segment/issues/28)
 
+- [npm search的时候出现了一段错误](https://cloud.tencent.com/developer/article/1914514?from=15425&areaSource=102001.12&traceId=vQiSy8Gs_l8DPwJo_2lQU)
+
 - [小游戏源码解析 - glitch](https://space-invaders.glitch.me/docs/space-invaders.html)
 
 - [如何唤醒APP？ - 简书](https://www.jianshu.com/p/136fd75ab05b)
@@ -60,3 +62,13 @@ tags:
 - [\(6条消息\) 解决No “exports“ main defined in xxx\*\\node\_modules\\\@babel\\helper-compilation-targets\\package.json\_春风化雨-CSDN博客](https://blog.csdn.net/jiahao1186/article/details/121877182)
 
 - [极诣数字营销 - 互联网数字营销专家\_数字广告\_数字分析\_内容营销策略](https://maxket.com/)
+
+- [Home | Showwcase社区](https://www.showwcase.com/)
+
+- [小林coding 博客](https://xiaolincoding.com/os/1_hardware/float.html#_0-1-0-2-0-3)
+
+- [HTTP 相关知识 | 前端工程师成长路线](https://xjl271314.github.io/docs/http/#tls-ssl-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
+
+- [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
+
+- [正向代理和反向代理解释](https://cloud.tencent.com/developer/article/1418457)

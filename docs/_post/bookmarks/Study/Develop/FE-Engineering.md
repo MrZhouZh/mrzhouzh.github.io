@@ -69,6 +69,12 @@ tags:
 
 - [RTSP H264 流 MSE 播放](https://cloud.tencent.com/developer/article/1849611)
 
+- [headless 组件库系列（1）概念调研](https://zhuanlan.zhihu.com/p/537385085)
+
+- [JSDoc 入门](https://www.jsdoc.com.cn/)
+
+- [jsdoc 热更新文档 - command-line argument for live-reload ? · Issue #1608 · jsdoc/jsdoc](https://github.com/jsdoc/jsdoc/issues/1608)
+
 ## 面试
 
 - [web前端面试 - 面试官系列](https://vue3js.cn/interview/)

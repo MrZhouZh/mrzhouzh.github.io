@@ -14,3 +14,5 @@ tags:
 - [Git 学习 - Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 
 - [git clone --depth=1之后拉取其他分支](https://zhuanlan.zhihu.com/p/350155254)
+
+- [解决Git中fatal: refusing to merge unrelated histories_向小凯同学学习的博客-CSDN博客](https://blog.csdn.net/wd2014610/article/details/80854807)

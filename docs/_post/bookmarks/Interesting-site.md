@@ -364,3 +364,39 @@ tag: Interesting Site
 - [查看目标浏览器范围百分比 Browserslist](https://browsersl.ist/)
 
 - [PPT 分享 - Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
+
+- [在线制作产品展示 - Shots - Create Amazing Mockups](https://shots.so/)
+
+- [Paypal 登录验证码软件 Microsoft Authenticator APK](https://microsoft-authenticator.en.softonic.com/android?ex=DINS-635.3)
+
+- [不死鸟 - 分享为王官网](https://iui.su/)
+
+- [电报机器人列表 - Telegram Bots Rating](https://tgbots.io/)
+
+- [华为搜索引擎 - Petal Search](https://petalsearch.com/)
+
+- [优米格-有事儿没事儿分享一下](https://www.4spaces.org/)
+
+- [Mosh 学习](https://codewithmosh.com/courses?affcode=146684_8qgz9mhy&gclid=Cj0KCQjw3a2iBhCFARIsAD4jQB2elgqs6-WQe93NCXwOsrAf7DGlvP0JrYnROLbP3_iWRRn_wNSo48caAt2NEALw_wcB)
+
+- [布客新知](https://github.com/ixinzhi)
+
+- [国学资源网-古籍网，国学资料网，国学经典书籍、音频、视频等资源在线下载！](https://www.guoxueziyuan.com/)
+
+- [古籍收藏爱好者 - 古籍网](https://www.fozhu920.com/#portfolio)
+
+- [静态资源加速，jsdelivr的替代品整理_江风引雨的博客-CSDN博客](https://blog.csdn.net/qq_29654777/article/details/122903558)
+
+- [随机一句话 - Hitokoto - 一言](https://hitokoto.cn/)
+
+- [潘达游戏盒](https://pandagamebox.com/)
+
+- [海盗湾(The Pirate Bay)种子站官网|下载&使用方法[2023年指南]](https://pandagamebox.com/the-pirate-bay.html)
+
+- [Jack's Navigation | 网站收藏](https://navigation.veryjack.com/)
+
+- [geekan/HowToLiveLonger: 程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger)
+
+- [程序员在家做饭方法指南](https://github.com/Anduin2017/HowToCook)
+
+- [生成porn logo - bestony/logoly: A Pornhub Flavour Logo Generator](https://github.com/bestony/logoly)

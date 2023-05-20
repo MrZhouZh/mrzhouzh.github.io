@@ -43,6 +43,26 @@ tag: Tools
 
 [ascii 字符画 - FIGlet初识 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/11/22/figlet/index.html)
 
+[Explaining Code Using ASCII Art | Hacker News](https://news.ycombinator.com/item?id=31891226)
+
+[ASCII Art - Svgbob editor](https://ivanceras.github.io/svgbob-editor/)
+
+[ASCII 流程图在线绘制 - ASCIIFlow](https://asciiflow.com/#/)
+
+[周末考古——ASCIIFlow中文支持探索 - 掘金](https://juejin.cn/post/7163696728641077284)
+
+[10 Tools to Generate and Have Fun With ASCII Art in Linux Terminal](https://itsfoss.com/ascii-art-linux-terminal/)
+
+[Christopher Johnson's ASCII Art Collection](https://asciiart.website/)
+
+[Text Art (copy and paste ASCII pictures and font)](https://fsymbols.com/text-art/)
+
+[Text to ASCII Art Generator (TAAG)](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+[ASCII Art Artists - Ascii Art Archive](https://www.asciiart.eu/ascii-artists)
+
+[神级注释 ascii](https://github.com/Blankj/awesome-comment)
+
 [Parcel 极速零配置WEB应用打包工具](https://parceljs.org/)
 
 [手绘风格组件](https://www.getpapercss.com/)
@@ -106,6 +126,8 @@ tag: Tools
   [FWeinb/grunt-svgstore: Merge svgs from a folder](https://github.com/FWeinb/grunt-svgstore/)
 
   [svgator - 生成SVG头像在线工具](https://www.svgator.com/)
+
+  [绘制SVG图js库 - Snap.svg - Getting Started](http://snapsvg.io/start/)
 :::
 
 ::: details 壁纸 相关
@@ -126,6 +148,8 @@ tag: Tools
   [发现导航 - 精选实用导航网站](https://www.nav3.cn/#/light)
 
   [闪击工作台](https://nav.sankki.com/#/index)
+
+  [免费下载电子书 - zBook](https://zbook.lol/)
 :::
 
 ::: details 生成头像工具
@@ -152,6 +176,10 @@ tag: Tools
   [百乐米](https://bailemi.com/)
 
   [铜钟](https://tonzhon.com/)
+
+  [Prompt AI生成音乐 - Royalty-Free Music Generation For App And Content Creators | Mubert Render](https://mubert.com/render)
+
+  [下载音乐资源 - The Pirate Bay - The galaxy's most resilient bittorrent site](https://thepiratebay.org/search.php?q=jay+chou&audio=on&search=Pirate+Search&page=0&orderby=)
 :::
 
 ## other
@@ -328,6 +356,8 @@ tag: Tools
 
 [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack \& more](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+[fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+
 [Remix Icon - Open source icon library](https://remixicon.com/)
 
 [免费素材图片](https://www.pexels.com/zh-cn/)
@@ -337,4 +367,32 @@ tag: Tools
 [volta - 增强版github项目管理](https://volta.net/)
 
 [js.org - 提供免费的一级域名用来部署项目](https://js.org/)
+
+[常用网站及工具,天体收藏家-孙国佑](http://sunguoyou.lamost.org/twrj.html)
+
+[在被窝里看星空的网站](https://zhuanlan.zhihu.com/p/102414624)
+
+[宇宙爱好者值得收藏的网站](https://zhuanlan.zhihu.com/p/84275558)
+
+[Emoji 网站用于markdown等协作](https://emojipedia.org/bookmark/)
+
+[Emoji Icons](https://fontawesome.com/icons/categories/emoji)
+
+[卡通角色图片](Free Stock Images of Cartoon Characters｜Charatoon)
+
+[生成头像 - Bitmoji](https://www.bitmoji.com/)
+
+[国内外免费好用的头像生成器和网站，快收藏起来～](https://zhuanlan.zhihu.com/p/548012217)
+
+[在Windows上统计软件使用时长和网站浏览时长](https://github.com/Planshit/Tai)
+
+### 安全上网
+
+- [vpn -  阿伟云](https://awcloud.life/#/dashboard)
+
+- [vpn 一元机场](https://xn--4gq62f52gdss.com/#/dashboard)
+
+- [ClashX for Mac 在 macOS 系统下配置使用教程](https://doc.miyun.app/app/clashx-app/)
+
+- [2023 年还有什么好用的梯子？](https://2023vpn.net/useful-tizi-vpn/)
 

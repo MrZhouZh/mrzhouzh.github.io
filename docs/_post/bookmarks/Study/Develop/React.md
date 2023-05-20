@@ -71,6 +71,12 @@ tags:
 
 - [小而美的egg-react-ssr 开源实现方案-InfoQ](https://www.infoq.cn/article/nji1xakophzxysgjuhj9)
 
+- [learn react - Adding React to a TypeScript Project | Total TypeScript](https://www.totaltypescript.com/tutorials/react-with-typescript/introduction/adding-react-to-a-typescript-project)
+
+- [useEventListener() react hook - usehooks-ts](https://usehooks-ts.com/react-hook/use-event-listener)
+
+- [react-use/useThrottle.ts at master · streamich/react-use · GitHub](https://github.com/streamich/react-use/blob/master/src/useThrottle.ts)
+
 ## 原理解析
 
 - [卡颂 - React 技术揭秘(gitee 国内访问)](https://kasong.gitee.io/just-react/)
@@ -82,6 +88,8 @@ tags:
 - [acdlite - 讲述fiber架构](https://github.com/acdlite/react-fiber-architecture)
 
 - [React官方文档](https://react.dev/)
+
+- [React Guidebook - 📚 React 知识图谱 关于概念、技巧、生态、前沿、源码核心 - React Guidebook](https://tsejx.github.io/react-guidebook/)
 
 - 已废弃 ~~[React 文档 beta版](https://beta.reactjs.org/)~~
 

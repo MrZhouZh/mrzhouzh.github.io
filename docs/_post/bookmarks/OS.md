@@ -24,3 +24,7 @@ tag: OS
 [Mac软件 下的所有内容 - MacApp分享频道](https://macapp.org.cn/app/)
 
 [国内知名MAC破解软件下载网站MacWK关站。附几个可以替代macwk的免费无广告网站 - 哔哩哔哩](https://www.bilibili.com/read/cv18937680?from=search)
+
+[Mac 软件下载 — Altapps.net](https://zh.altapps.net/platform/mac)
+
+[苹果应用市场国家地区切换](https://as.dogged.cn/#)

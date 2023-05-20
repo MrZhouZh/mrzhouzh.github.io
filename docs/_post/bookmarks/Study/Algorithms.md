@@ -20,3 +20,7 @@ tags:
 - [算法可视化图表](https://algorithm-visualizer.org/brute-force/selection-sort)
 
 - [算法背后的六种思想](https://juejin.cn/post/7127212015159869470)
+
+- [二叉树的前序遍历 | awesome-coding-js](https://www.conardli.top/docs/datastructure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.html)
+
+- [fucking-algorithm/二分查找详解.md at master · labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md)
