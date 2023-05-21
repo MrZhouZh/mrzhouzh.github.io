@@ -4,6 +4,7 @@ date: 2023-01-19
 category: bookmark
 ---
 
+- [AI](./AI.md)
 - [Babel](./Babel.md)
 - [Blog](./Blog.md)
 - [Chrome](./Chrome.md)
@@ -26,8 +27,10 @@ category: bookmark
 - [RegExp](./RegExp.md)
 - [React](./React.md)
 - [ReactNative](./ReactNative.md)
+- [Rust](./Rust.md)
 - [Serverless](./Serverless.md)
 - [Shell](./Shell.md)
+- [TypeScript](./TypeScript.md)
 - [UX](./UX.md)
 - [Vue](./Vue.md)
 - [Webpack](./Webpack.md)
