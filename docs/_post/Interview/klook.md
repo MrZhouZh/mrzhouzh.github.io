@@ -1,11 +1,11 @@
 ---
-title: 客路旅行面试
+title: 客路旅行
 # date: 2023-05-12
 date: 2017-05-12
 category: Interview
 ---
 
-## 客路旅行面试
+## 客路旅行
 
 邮件笔试
 
@@ -160,3 +160,33 @@ function add(a, b) {
 ```
 
 在执行之前的创建阶段, 已经把 `msg` 和 `add` 的内存空间分配好了
+
+#### Git merge 和 rebase 的区别
+
+<!-- refs:
+  - [【Git】：git rebase和git merge有什么区别？](https://joyohub.com/2020/04/06/git-rebase/)
+-->
+
+- `git merge` 优点是分支代码合并后不破坏原分支的代码提交记录，缺点就是会产生额外的提交记录并进行两条分支的合并，
+
+- `git rebase` 优点是无须新增提交记录到目标分支，`rebase` 后可以将对象分支的提交历史续上目标分支上，形成线性提交历史记录，进行 review 的时候更加直观
+
+- `git merge` 如果有多人进行开发并进行分支合并，会形成复杂的合并分支图
+
+虽然 `git rebase` 的优点明显, 但是不能完全替代 `merge`.
+
+`git rebase` 有一条黄金原则: 
+
+::: tip
+
+“No one shall rebase a shared branch” — Everyone about rebase
+
+不能在一个共享的分支上进行 `git rebase` 操作
+
+:::
+
+总的来说:
+
+- 融合代码到公共分支的时使用 `git merge`,而不用 `git rebase`
+
+- 融合代码到个人分支的时候使用 `git rebase`，可以不污染分支的提交记录，形成简洁的线性提交历史记录

@@ -1,11 +1,11 @@
 ---
-title: 传音控股面试
+title: 传音控股
 # date: 2023-05-16
 date: 2017-05-16
 category: Interview
 ---
 
-## 传音控股面试
+## 传音控股
 
 - Q: React 合成事件(SyntheticEvent)和原生事件有何不同? 
 
