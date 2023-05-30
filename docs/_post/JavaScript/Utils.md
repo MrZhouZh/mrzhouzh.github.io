@@ -30,6 +30,18 @@ category: JavaScript
 
 :::
 
+### 生成随机字符串
+
+> refs: [nanoid - urlAlphabet](https://github.com/ai/nanoid/blob/950dbdaefef465cc6925c6ec596b3478233a1c2d/url-alphabet/index.js)
+
+随机生成一段字符串
+
+::: details 点击查看代码
+
+<<< @/docs/_code/JavaScript/Utils/randomStr.js
+
+:::
+
 ## 参考资料
 
 - [7分钟理解JS的节流、防抖及使用场景](https://juejin.cn/post/6844903669389885453)
