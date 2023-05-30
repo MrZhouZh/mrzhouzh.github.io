@@ -42,6 +42,16 @@ category: JavaScript
 
 :::
 
+### 简单字符串模板引擎
+
+简易字符串模板引擎
+
+::: details 点击查看代码
+
+<<< @/docs/_code/JavaScript/Utils/template.js
+
+:::
+
 ## 参考资料
 
 - [7分钟理解JS的节流、防抖及使用场景](https://juejin.cn/post/6844903669389885453)
