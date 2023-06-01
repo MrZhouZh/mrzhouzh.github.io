@@ -122,6 +122,14 @@ console.log(radix16Convert(10022321)) // 98edb1
 console.log(radixConvert(173))  // ad
 ```
 
+使用栈实现进制转化
+
+::: details 点击查看代码
+
+<<< @/docs/_code/JavaScript/Utils/hex2Decimal.js
+
+:::
+
 ### 参考资料
 
 - [进制转换在线工具](https://www.sojson.com/hexconvert.html)
