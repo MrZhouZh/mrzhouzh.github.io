@@ -61,6 +61,8 @@ tags:
 
 - [react hooks 实现 infinite scroll](https://github.com/upmostly/react-hooks-infinite-scroll/blob/master/src/List.js)
 
+- [uidotdev/usehooks 封装](https://github.com/uidotdev/usehooks/blob/main/index.js)
+
 - [react简单的tab切换 \(styled-components\)](https://www.bbsmax.com/A/kmzL3qqAdG/)
 
 - [react 封装组件的7点 7 Architectural Attributes of a Reliable React Component](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
