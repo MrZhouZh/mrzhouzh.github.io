@@ -90,3 +90,7 @@ tags:
 - [vue+ElementUI下iframe子页面弹窗蒙层遮罩问题优化 - 浅悠 - 博客园](https://www.cnblogs.com/qianyou304/p/14155764.html)
 
 - [Element-ui 表格 \(Table\) 组件中动态合并单元格【图文】\_炫幻星辰\_51CTO博客](https://blog.51cto.com/u_15302032/3067598)
+
+## Vite
+
+- [神三元 - 基于 Vite 的 SSG 框架开发实战 island.js 源码](https://github.com/sanyuan0704/island.js)
