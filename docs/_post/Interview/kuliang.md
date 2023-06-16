@@ -23,6 +23,8 @@ category: Interview
 
 - TypeScript interface 有什么优势, 不用会有什么影响
 
+据面试官结束后的解释, 我觉得他想问的应该是 TypeScript 类型声明的好处, 而不是具体的 interface 的优势...
+
 <!-- 代码的抽象度, 方便后续维护, 能承接项目的复杂度, 更加面向对象 -->
 
 优势:
@@ -37,7 +39,7 @@ category: Interview
 2. 代码不够清晰易懂, 维护和扩展困难
 3. 不容易发现潜在问题, 因此程序的稳定性和可靠性会受到影响
 
-- TypeScript双向链表
+- TypeScript双向链表, 手写
 
 手写... 不过我就只定义了一个 Node 的类型. 心累:)
 

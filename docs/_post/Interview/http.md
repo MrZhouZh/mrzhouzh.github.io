@@ -26,3 +26,7 @@ date: 2017-05-23
   - `Last-Modified / If-Modified-Since`：服务器在响应头中加上Last-Moidified字段表示该资源在服务器上的最后修改时间。当客户端再次请求时，在请求头 `If-Modified-Since` 字段带上上次服务器响应的Last-Modified时间，如果服务器判断没有修改，就会返回 *304 Not Modified* 状态码。使用场景通常是对于静态资源且目标资源文件大小小于1MB的资源，否则存在重复读写的问题。
 
   - `ETag / If-None-Match`： `ETag` 是服务器响应头中表示资源版本的字段，它是一个字符串
+
+**启发式缓存**: 如果响应中未显示 `Expires`, `Cache-Control:max-age` 或`Cache-Control:s-maxage`, 并且响应中不包含其他有关缓存的限制, 缓存可以使用启发式方法计算新鲜度寿命. 通常会根据响应头中的2个时间字段 `Date` 减去 `Last-Modified` 值的 **10%** 作为缓存时间
+
+<!-- refs: [【金三银四】一年半经验，小羽同学的CVTE突袭面经](https://juejin.cn/post/6950128776315404302#heading-2) -->
