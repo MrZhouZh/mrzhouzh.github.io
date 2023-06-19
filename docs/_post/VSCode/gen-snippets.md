@@ -30,6 +30,8 @@ function debounce(fn, wait) {
 
 `debounce.code-snippets`
 
+这里可以用一个工具生成: [https://snippet-generator.app](https://snippet-generator.app)
+
 ```json
 {
 	"debounce": {
