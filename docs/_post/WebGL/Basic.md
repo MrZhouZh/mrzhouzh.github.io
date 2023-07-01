@@ -236,6 +236,13 @@ $$
 \end{aligned}
 $$
 
+原生JS计算公式:
+
+```js
+const toRadians = (deg) => deg * (Math.PI / 180)
+Math.cos(toRadians(30)) 
+```
+
 实际上:
 
 $$
