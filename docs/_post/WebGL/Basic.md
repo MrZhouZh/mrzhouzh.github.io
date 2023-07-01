@@ -151,10 +151,12 @@ mesh.quaternion = new Quaternion()
  -->
 
 $$\begin{pmatrix}
+
 1 & 0 & 0 & 0 \\
 0 & 1 & 0 & 0 \\
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}$$
 
 四行四列表示是一个 `4x4`矩阵, three.js 中处理这种类型的数学对象称为 `Matrix4`, `3x3`矩阵则称为`Matrix3`, 当矩阵在**`主对角线`**上全为1而其他地方都为0时, 称其为**`单位矩阵 I`**
@@ -172,10 +174,12 @@ mesh.updateMatrix()
 **平移**后存储在矩阵的前三行的最后一列中:
 
 $$\begin{pmatrix}
+
 1 & 0 & 0 & 2 \\
 0 & 1 & 0 & 4 \\
 0 & 0 & 1 & 6 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}$$
 
 **缩放**
@@ -190,19 +194,23 @@ mesh.updateMatrix()
 这时候缩放比例值存储在主对角线上
 
 $$\begin{pmatrix}
+
 5 & 0 & 0 & 2 \\
 0 & 7 & 0 & 4 \\
 0 & 0 & 9 & 6 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}$$
 
 公式表示则是:
 
 $$\begin{pmatrix}
+
 Sx & 0 & 0 & Tx \\
 0 & Sy & 0 & Ty \\
 0 & 0 & Sz & Tz \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}$$
 
 重置位置和缩放
@@ -220,20 +228,30 @@ mesh.rotation.x = MathUtils.degToRad(30)
 mesh.updateMatrix()
 ```
 
-$$\begin{pmatrix}
+$$
+
+\begin{pmatrix}
+
 1 & 0 & 0 & 0 \\
 0 & 0.866... & 0.5... & 0 \\
 0 & -0.5... & 0.866... & 0 \\
 0 & 0 & 0 & 1 \\
-\end{pmatrix}$$
+
+\end{pmatrix}
+
+$$
 
 其中的一些数字可以做数学等式:
 
 $$
+
 \begin{aligned}
+
 & \cos(30)=0.866...\\
 & \sin(30)=0.5\\
+
 \end{aligned}
+
 $$
 
 原生JS计算公式:
@@ -246,13 +264,18 @@ Math.cos(toRadians(30))
 实际上:
 
 $$
+
 X-Rotation=
+
 \begin{pmatrix}
+
 1 & 0 & 0 & 0 \\
 0 & cos(30) & sin(30) & 0 \\
 0 & -sin(30) & cos(30) & 0 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}
+
 $$
 
 总结各轴的旋转公式为:
@@ -260,26 +283,35 @@ $$
 ::: details 折叠
 
 $$
+
 X-Rotation=
+
 \begin{pmatrix}
+
 1 & 0 & 0 & 0 \\
 0 & cos(Rx) & sin(Rx) & 0 \\
 0 & -sin(Rx) & cos(Rx) & 0 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}
 $$
 
 $$
+
 Y-Rotation=
+
 \begin{pmatrix}
+
 cos(Ry) & 0 & sin(Ry) & 0 \\
 0 & 1 & 0 & 0 \\
 -sin(Ry) & 0 & cos(Ry) & 0 \\
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}
 $$
 
 $$
+
 Z-Rotation=
 \begin{pmatrix}
 cos(Rz) & -sin(Rz) & 0 & 0 \\
@@ -287,8 +319,36 @@ sin(Rz) & cos(Rz) & 0 & 0 \\
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1 \\
 \end{pmatrix}
+
 $$
 
 :::
+
+
+### 纹理
+
+**UV映射**
+
+将二维纹理映射到三维几何体的一种方法. 公式如下
+
+$$
+
+(u, v) -> (x, y, z)
+
+$$
+
+`(u,v)` 表示纹理上的一个点, 而`(x,y,z)`表示几何体上的一个点, 在局部空间中定义. 从技术上讲, 几何体上的一个点称为定点`vertex`.
+
+![uv映射示意图](/images/WebGL/geometry_uv_map.svg)
+
+如图:
+
+> 请注意, 点(0.5,0.5)没有映射, 纹理的中心. 只有纹理的角落被映射到立方体的八个角上, 其余的点是从中'猜测'出来的. three.js 中几何体都内置了UV映射.
+
+$$
+
+(0,1) -> (-1,1,1)
+
+$$
 
 <!-- TODO: Vuepress 支持数学公式 -->
