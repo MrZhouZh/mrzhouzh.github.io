@@ -70,7 +70,7 @@ mesh.position.set(1, 2, 3)
 
 当然, 也可以旋转相机, 这种情况下, 可以将降级位置作为默认视图, 并以此推断方向.
 
-向量可以代表各种食物, 而不仅仅是平移. 向量的数据类型分为三类:
+向量可以代表各种实物, 而不仅仅是平移. 向量的数据类型分为三类:
 
 1. 空间中的一个点
 2. **坐标系内的长度和方向**
@@ -153,8 +153,11 @@ mesh.quaternion = new Quaternion()
 $$\begin{pmatrix}
 
 1 & 0 & 0 & 0 \\
+
 0 & 1 & 0 & 0 \\
+
 0 & 0 & 1 & 0 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}$$
@@ -176,8 +179,11 @@ mesh.updateMatrix()
 $$\begin{pmatrix}
 
 1 & 0 & 0 & 2 \\
+
 0 & 1 & 0 & 4 \\
+
 0 & 0 & 1 & 6 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}$$
@@ -196,8 +202,11 @@ mesh.updateMatrix()
 $$\begin{pmatrix}
 
 5 & 0 & 0 & 2 \\
+
 0 & 7 & 0 & 4 \\
+
 0 & 0 & 9 & 6 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}$$
@@ -207,8 +216,11 @@ $$\begin{pmatrix}
 $$\begin{pmatrix}
 
 Sx & 0 & 0 & Tx \\
+
 0 & Sy & 0 & Ty \\
+
 0 & 0 & Sz & Tz \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}$$
@@ -233,8 +245,11 @@ $$
 \begin{pmatrix}
 
 1 & 0 & 0 & 0 \\
+
 0 & 0.866... & 0.5... & 0 \\
+
 0 & -0.5... & 0.866... & 0 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}
@@ -248,6 +263,7 @@ $$
 \begin{aligned}
 
 & \cos(30)=0.866...\\
+
 & \sin(30)=0.5\\
 
 \end{aligned}
@@ -270,8 +286,11 @@ X-Rotation=
 \begin{pmatrix}
 
 1 & 0 & 0 & 0 \\
+
 0 & cos(30) & sin(30) & 0 \\
+
 0 & -sin(30) & cos(30) & 0 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}
@@ -289,8 +308,11 @@ X-Rotation=
 \begin{pmatrix}
 
 1 & 0 & 0 & 0 \\
+
 0 & cos(Rx) & sin(Rx) & 0 \\
+
 0 & -sin(Rx) & cos(Rx) & 0 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}
@@ -303,8 +325,11 @@ Y-Rotation=
 \begin{pmatrix}
 
 cos(Ry) & 0 & sin(Ry) & 0 \\
+
 0 & 1 & 0 & 0 \\
+
 -sin(Ry) & 0 & cos(Ry) & 0 \\
+
 0 & 0 & 0 & 1 \\
 
 \end{pmatrix}
@@ -313,11 +338,17 @@ $$
 $$
 
 Z-Rotation=
+
 \begin{pmatrix}
+
 cos(Rz) & -sin(Rz) & 0 & 0 \\
+
 sin(Rz) & cos(Rz) & 0 & 0 \\
+
 0 & 0 & 1 & 0 \\
+
 0 & 0 & 0 & 1 \\
+
 \end{pmatrix}
 
 $$
