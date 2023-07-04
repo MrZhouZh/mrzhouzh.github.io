@@ -43,6 +43,8 @@ tag: Interesting Site
 
 - [米粒米粒](https://milimili.nl/)
 
+- [anfuns 动漫](https://www.anfuns.cc/play/200-1-1.html)
+
 ## 工具导航收录网站
 
 - [快导航网](https://www.hifast.cn/)
