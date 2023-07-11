@@ -2,7 +2,7 @@
 title: 上海酷量
 # date: 2023-06-14
 date: 2017-05-14
-category: Interview
+# category: Interview
 ---
 
 ## 上海酷量

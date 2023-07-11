@@ -2,7 +2,7 @@
 title: 上海湃星
 # date: 2023-06-11
 date: 2017-05-11
-category: Interview
+# category: Interview
 ---
 
 ## 上海湃星

@@ -2,7 +2,7 @@
 title: 传音控股
 # date: 2023-05-16
 date: 2017-05-16
-category: Interview
+# category: Interview
 ---
 
 ## 传音控股

@@ -2,7 +2,7 @@
 title: CVTE
 # date: 2023-06-19
 date: 2017-05-19
-category: Interview
+# category: Interview
 ---
 
 ## CVTE

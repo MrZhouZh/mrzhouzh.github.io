@@ -2,7 +2,7 @@
 title: 中通数科
 # date: 2023-07-06
 date: 2017-05-06
-category: Interview
+# category: Interview
 ---
 
 ## 中通数科

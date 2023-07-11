@@ -2,7 +2,7 @@
 title: 上海元聚
 # date: 2023-06-14
 date: 2017-05-16
-category: Interview
+# category: Interview
 ---
 
 ## 上海元聚
