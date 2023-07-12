@@ -1,7 +1,7 @@
 ---
 title: 算法-二分查找右边界
 date: 2023-03-08
-category: Algo
+# category: Algo
 ---
 
 ## 二分查找右边界

@@ -1,7 +1,7 @@
 ---
 title: 算法-盛最多水的容器
 date: 2023-03-12
-category: Algo
+# category: Algo
 ---
 
 ## 盛最多水的容器
