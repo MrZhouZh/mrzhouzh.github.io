@@ -6,11 +6,11 @@
 const bubbleSort = (arr) => {
   if (arr.length <= 1) return arr
   // console.time('--bubble sort--')
-  for(let i = 1, len = arr.length; i < len; i++) {
+  for(let i = 0, len = arr.length - 1; i < len; i++) {
     let hasChange = false
-    for(let j = i; j > 0; j--) {
-      if (arr[j] < [arr[j - 1]]) {
-        [arr[j], arr[j - 1]] = [arr[j - 1], arr[j]]
+    for(let j = 0; j < len; j++) {
+      if (arr[j] > [arr[j + 1]]) {
+        [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]]
         hasChange = true
       }
     }
