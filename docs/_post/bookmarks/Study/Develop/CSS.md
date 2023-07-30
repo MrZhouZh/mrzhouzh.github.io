@@ -43,6 +43,8 @@ tags:
 
 - [Freebie Landing Page for SaaS #5 | Adobe XD Freebies | Figma Free Resources | XD Resources](https://www.arshakir.com/project/saas-landing-page-freebie-5)
 
+- [CSS Triggers List – What Kind of Changes You Can Make](https://csstriggers.com/)
+
 ## Less
 
 - [深入解读 Less 特性 | Less.js 中文文档 - Less 中文网](https://less.bootcss.com/features/#mixins)

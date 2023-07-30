@@ -22,3 +22,5 @@ tag: Blog
 - [Netlify部署github上的项目并配置自己的域名](https://juejin.cn/post/7127855535881191455)
 
 - [SSL：GoDaddy SSL证书制作和安装](https://www.cnblogs.com/William-Guozi/p/ssl.html)
+
+- [The end of frontend development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)

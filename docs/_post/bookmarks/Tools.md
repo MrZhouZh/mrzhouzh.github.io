@@ -25,6 +25,8 @@ tag: Tools
 
 [colorfu - 在线绘图平台](https://pearmini.github.io/colorfu/#/editor)
 
+[pixilart](https://www.pixilart.com/gallery/rising)
+
 ## Code 相关
 
 [es5 转 es6 在线](https://lebab.unibtc.me/editor)
@@ -385,6 +387,14 @@ tag: Tools
 [国内外免费好用的头像生成器和网站，快收藏起来～](https://zhuanlan.zhihu.com/p/548012217)
 
 [在Windows上统计软件使用时长和网站浏览时长](https://github.com/Planshit/Tai)
+
+[开源在线接口测试 - Hoppscotch](https://hoppscotch.io/)
+
+[OpenProcessing - Creative Coding for the Curious Mind](https://openprocessing.org/)
+
+[文本语音阅读器](https://ttsreader.com/zh/)
+
+[产品设计 linear](https://linear.app/)
 
 ### 安全上网
 

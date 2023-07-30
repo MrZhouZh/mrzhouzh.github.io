@@ -77,6 +77,8 @@ tags:
 
 - [jsdoc 热更新文档 - command-line argument for live-reload ? · Issue #1608 · jsdoc/jsdoc](https://github.com/jsdoc/jsdoc/issues/1608)
 
+- [JavaScript Guidebook](https://tsejx.github.io/javascript-guidebook/browser-object-model/binary-data-and-files/base64/)
+
 ## 面试
 
 - [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
