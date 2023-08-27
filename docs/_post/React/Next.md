@@ -14,4 +14,7 @@ categories:
 
 ## 个人项目
 
+- [Next Get Started - blog start](https://github.com/MrZhouZh/blog-next)
+
 - [Next RESTFUL API](https://github.com/MrZhouZh/next-restful-api)
+
