@@ -18,3 +18,7 @@ categories:
 
 - [Next RESTFUL API](https://github.com/MrZhouZh/next-restful-api)
 
+### TODO
+
+- [ ] Next ESLint standard
+
