@@ -1,0 +1,18 @@
+// 添加兼容性前缀
+@mixin prefix($declarations, $prefixes: ()) {
+  @each $property, $value in $declarations {
+      @each $prefix in $prefixes {
+          #{'-' + $prefix + '-' + $property}: $value;
+      }
+      
+      #{$property}: $value;
+  }
+}
+
+.prefix-test {
+  @include prefix((
+      column-count: 3,
+      column-gap: 1.5em,
+      column-rule: 2px solid hotpink
+  ), webkit moz ms o)
+}
