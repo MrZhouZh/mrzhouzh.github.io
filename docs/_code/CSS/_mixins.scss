@@ -16,3 +16,54 @@
       column-rule: 2px solid hotpink
   ), webkit moz ms o)
 }
+
+
+// |选项|	描述	|类型|	是否必须	|默认值|
+// |-|	-	|-|	-	|-|
+// |animationName|	animation-name的值，也就是动画名称|	string|	NO|	animation|
+// |keyframes|	0%至100%的动画规则，也就是@keyframes的帧运动|	Sass map Object|	YES|	无|
+// |duration|	animation-druration的值，动画播放持续时间|	Number|	NO|	1s|
+// |waitTimg|	animation-delay的值，动画延迟播放时间|	Number|	NO|	0|
+// |timingFunc|	animation-timing-function的值，动画播放函数|	String|	NO|	linear|
+// |iterationCount|	animation-iteration-count的值，动画播放次数|	String|	NO|	infinite|
+// @mixin animation($options: ()) {
+//   $options: map-merge((
+//       // animationName: animation,
+//       duration: 1,
+//       waitTime: 0,
+//       timingFunc: linear,
+//       iterationCount: infinite
+//   ), $options);
+  
+//   // $name: map-get($options, animationName);
+//   $name: unique-id();
+//   $kf: map-get($options, keyframes);
+//   $kfLength: length($kf);
+//   $duration: map-get($options, duration);
+//   $waitTime: map-get($options, waitTime);
+//   $timingFunc: map-get($options, timeFunc);
+//   $iterationCount: map-get($options, iterationCount);
+//   $counter: 1; // index of 'each'
+  
+//   @keyframes #{$name} {
+//     @each $frame, $prop in $kf {
+//       #{$frame * $duration / ($duration + $waitTime)}% {
+//           @each $k, $v in $prop {
+//               #{$k}: #{$v}
+//           }
+//       }
+//       // if last in loop and waitTime is not zero, add the last frame as 100% (this is what creates the pause)
+//       @if $counter == $kfLength and $waitTime > 0 {
+//           100% {
+//               @each $k, $v in $prop {
+//                   #{$k}: #{$v}
+//               }
+//           }
+//       }
+        
+//       $counter: $counter + 1;
+//     }
+//   }
+  
+//   animatino: #{$name} #{$duration}s #{$timingFunc} #{$iterationCount};
+// }
