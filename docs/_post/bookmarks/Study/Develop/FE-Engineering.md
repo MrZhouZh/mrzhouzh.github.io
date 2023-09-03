@@ -82,3 +82,60 @@ tags:
 ## 面试
 
 - [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
+
+## 小记
+
+::: details eslint config
+```json
+"eslintConfig": {
+    "parser": "@typescript-eslint/parser",
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:react-hooks/recommended",
+        "prettier/@typescript-eslint",
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 8,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react-hooks"
+    ],
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
+    "rules": {
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/no-unused-vars": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "@typescript-eslint/camelcase": "off",
+        "@typescript-eslint/no-empty-interface": "off",
+        "@typescript-eslint/interface-name-prefix": "off",
+        "@typescript-eslint/no-var-requires": "off",
+        "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "error",
+        "no-debugger": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off"
+    },
+    "ignorePatterns": [
+        "dist/**/*.*",
+        "node_modules",
+        "**/html/*.js",
+        "build",
+        "scripts",
+        "common_modules",
+        "manifest",
+        "log",
+        "myapp",
+        "src/browser/investment/components/tinymce"
+    ]
+}
+```
+
+:::
