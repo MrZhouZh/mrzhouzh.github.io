@@ -22,6 +22,11 @@ categories:
 
 - [ ] Next ESLint standard
 
+  // 待测试
+  - eslint
+  - eslint next
+  - @antfu/eslint-plugin-react
+
   所需依赖:
   - eslint
   - eslint-plugin-react
