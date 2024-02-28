@@ -7,23 +7,25 @@ tag: Interesting Site
 
 ## Movie
 
-- [CJT影院-世界上最好的影视网站](https://www.cjt521.com/)
+- ~~[CJT影院-世界上最好的影视网站](https://www.cjt521.com/)~~
 
-- [大师兄影视-永久免费的福利超清影视站](https://tv.ci/)
+- ~~[大师兄影视-永久免费的福利超清影视站](https://tv.ci/)~~
 
-- [片库 - 全网高清影视聚合下载](https://www.mypianku.net/)
+- ~~[片库 - 全网高清影视聚合下载](https://www.mypianku.net/)~~
 
 - [鸭奈飞电影-专注于为国内用户提供免费的奈飞影视](https://yanetflix.com/)
 
-- [电影蜜蜂-高清电影资源最新电影下载](https://www.idybee.com/)
+- ~~[电影蜜蜂-高清电影资源最新电影下载](https://www.idybee.com/)~~
 
-- [奈落影院](https://newfii.com/)
+- ~~[奈落影院](https://newfii.com/)~~
 
 - [电影狗 - 专业电影搜索引擎](https://www.dianyinggou.com/)
 
-- [茶杯狐 Cupfox - 努力让找电影变得简单](https://www.cupfox.com/)
+- ~~[茶杯狐 Cupfox - 努力让找电影变得简单](https://www.cupfox.com/)~~
 
-- [555电影-免费电影-在线电影网-免费VIP资源在线观看](https://555dy1.com/)
+- [555电影-免费电影-在线电影网-免费VIP资源在线观看](https://555u.store/)
+
+- [不太灵影视](https://www.2bt0.com/)
 
 ## 动漫
 
