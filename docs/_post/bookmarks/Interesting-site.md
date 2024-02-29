@@ -27,6 +27,8 @@ tag: Interesting Site
 
 - [不太灵影视](https://www.2bt0.com/)
 
+- [LIBVIO 影视](https://www.libvio.fun/)
+
 ## 动漫
 
 - [AGE动漫](https://www.agemys.net/)
