@@ -42,7 +42,7 @@ category: Design-pattern
 
 ::: details 点击查看代码
 
-<<< @/docs/_code/TypeScript/Command.ts
+<<< @/docs/_code/TypeScript/Command-pattern.ts
 
 :::
 
