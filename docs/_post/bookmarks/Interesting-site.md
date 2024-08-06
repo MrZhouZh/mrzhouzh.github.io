@@ -29,6 +29,8 @@ tag: Interesting Site
 
 - [LIBVIO 影视](https://www.libvio.fun/)
 
+- [电影电视剧宝藏网站 - dailymotion](https://www.dailymotion.com/sg)
+
 ## 动漫
 
 - [AGE动漫](https://www.agemys.net/)
