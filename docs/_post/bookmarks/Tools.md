@@ -398,6 +398,10 @@ tag: Tools
 
 [产品设计 linear](https://linear.app/)
 
+### AI
+
+[Google AI Studio](https://aistudio.google.com/)
+
 ### 安全上网
 
 - [vpn -  阿伟云](https://awcloud.life/#/dashboard)
