@@ -1,0 +1,145 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jace Chow's Blog",
+    "home_page_url": "https://mrzhouzh.github.io",
+    "feed_url": "https://mrzhouzh.github.io/feed.json",
+    "description": "Jace Chow's personal site",
+    "items": [
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/23/algo-tictactoe.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/23/algo-tictactoe.html",
+            "title": "算法-找出井字棋的获胜者",
+            "summary": "来源:",
+            "date_modified": "2023-03-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/08/algo-binary-search-right-bouond.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/08/algo-binary-search-right-bouond.html",
+            "title": "算法-二分查找右边界",
+            "summary": "::: details 点击查看代码",
+            "date_modified": "2023-03-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/07/algo-binary-search-left-bound.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/07/algo-binary-search-left-bound.html",
+            "title": "算法-二分查找左边界",
+            "summary": "< @/docs/_code/Algo/binarySearchLeftBound.js#snippet{25,28,34}",
+            "date_modified": "2023-03-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/06/algo-binary-search.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/06/algo-binary-search.html",
+            "title": "算法-二分查找",
+            "date_modified": "2023-03-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/03/algo-bubble-sort.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/03/algo-bubble-sort.html",
+            "title": "算法-冒泡排序",
+            "summary": "实现原理: 双层循环比较两个记录键值的大小, 如果这两个记录键值的大小出现逆序, 则交换这两个记录键值",
+            "date_modified": "2023-03-03T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/05/algo-descartes.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/05/algo-descartes.html",
+            "title": "算法-笛卡尔积",
+            "summary": ":::",
+            "date_modified": "2023-03-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/27/algo-fib.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/27/algo-fib.html",
+            "title": "算法 - 斐波那契数列",
+            "summary": "::: tip 斐波那契数列的定义",
+            "date_modified": "2023-03-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/24/algo-find-all-narcissitic.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/24/algo-find-all-narcissitic.html",
+            "title": "算法 - 找到N位的所有十进制水仙花数",
+            "summary": "三位数: [100, 999]\n  四位数: [1000, 9999]",
+            "date_modified": "2023-03-24T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/12/algo-max-area.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/12/algo-max-area.html",
+            "title": "算法-盛最多水的容器",
+            "summary": "解题思路:",
+            "date_modified": "2023-03-12T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/04/algo-quick-sort.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/04/algo-quick-sort.html",
+            "title": "算法-快排",
+            "date_modified": "2023-03-04T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/03/algo-insertion-sort.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/03/algo-insertion-sort.html",
+            "title": "算法-插入排序",
+            "summary": "实现原理: 把当前遍历的元素取出, 在序列中找到一个合适的位置插入, 第二层循环不必遍历当前元素之前的所有元素, 因为当前元素之前的序列都是排好序的, 碰到第一个小于当前元素的值, 就可以停止继续向前查找. 然后把当前元素插入当前位置即可",
+            "date_modified": "2023-03-03T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/03/algo-selection-sort.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/03/algo-selection-sort.html",
+            "title": "算法-选择排序",
+            "summary": "< @/docs/_code/Algo/selectionSort.js#snippet{13,20}",
+            "date_modified": "2023-03-03T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/28/algo-shuffle.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/28/algo-shuffle.html",
+            "title": "数组随机顺序 - 洗牌算法",
+            "summary": "`",
+            "date_modified": "2023-03-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/09/algo-single-number.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/09/algo-single-number.html",
+            "title": "算法-统计只出现一次的数字",
+            "date_modified": "2023-03-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/05/22/algo-skills.html",
+            "url": "https://mrzhouzh.github.io/post/2023/05/22/algo-skills.html",
+            "title": "算法思想",
+            "summary": "::: tip\n算法思想是解决算法问题的核心\n:::",
+            "date_modified": "2023-05-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/02/algo-twosum.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/02/algo-twosum.html",
+            "title": "算法-两数之和",
+            "summary": "给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。",
+            "date_modified": "2023-03-02T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/18/algo-valid-brackets.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/18/algo-valid-brackets.html",
+            "title": "算法 - 检查括号是否有效",
+            "summary": "解题思路:",
+            "date_modified": "2023-03-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/02/structure-linkedlist.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/02/structure-linkedlist.html",
+            "title": "数据结构-链表",
+            "summary": "::: details 点击查看代码",
+            "date_modified": "2023-03-02T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/02/structure-queue.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/02/structure-queue.html",
+            "title": "数据结构-队列",
+            "summary": "queue.push(2)",
+            "date_modified": "2023-03-02T00:00:00.000Z"
+        },
+        {
+            "id": "https://mrzhouzh.github.io/post/2023/03/02/structure-stack.html",
+            "url": "https://mrzhouzh.github.io/post/2023/03/02/structure-stack.html",
+            "title": "数据结构-栈",
+            "date_modified": "2023-03-02T00:00:00.000Z"
+        }
+    ]
+}
