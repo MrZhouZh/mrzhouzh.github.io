@@ -51,6 +51,8 @@ tag: Interesting Site
 
 - [anfuns 动漫](https://www.anfuns.cc/play/200-1-1.html)
 
+- [Bangumi 番组计划](https://bangumi.tv/anime)
+
 ## 工具导航收录网站
 
 - [快导航网](https://www.hifast.cn/)
