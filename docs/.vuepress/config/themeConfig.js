@@ -16,7 +16,7 @@ module.exports = {
     social: [
         {
             type: 'email',
-            link: '17600330793@sina.cn',
+            link: 'jaceechow@sina.com',
         },
         {
             type: 'github',
